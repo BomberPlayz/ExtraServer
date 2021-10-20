@@ -1,0 +1,880 @@
+[2021-05-20T15:48:03.671] [INFO] default - |-----------------|
+[2021-05-20T15:48:03.674] [INFO] default - |ExtraServer START|
+[2021-05-20T15:48:03.674] [INFO] default - |-----------------|
+[2021-05-20T15:48:03.676] [INFO] default - creating server...
+[2021-05-20T15:48:03.677] [INFO] default - Loading plugins...
+[2021-05-20T15:48:04.965] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-05-20T15:48:04.974] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-05-20T15:48:04.974] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-05-20T15:48:04.991] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-05-20T15:48:04.999] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-05-20T15:48:05.001] [INFO] default - Loaded plugin logDebug.js
+[2021-05-20T15:48:05.021] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-05-20T15:48:05.022] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-05-20T15:48:05.022] [INFO] default - Starting to listen...
+[2021-05-20T15:48:05.028] [INFO] default - Server started!
+[2021-05-20T15:48:05.032] [INFO] default - tictuc! elindult!
+[2021-05-20T21:09:51.388] [INFO] defaultRequestHandler.js - ::1 requested to /
+[2021-05-20T21:09:51.587] [INFO] defaultRequestHandler.js - ::1 requested to /index.html
+[2021-05-20T21:09:51.836] [INFO] defaultRequestHandler.js - ::1 requested to /favicon.ico
+[2021-05-20T21:09:51.844] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-05-20T21:09:55.339] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx
+[2021-05-20T21:09:55.402] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:09:55.405] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:09:55.407] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:09:55.409] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:09:55.411] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:09:55.418] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:09:55.420] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:09:55.423] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:09:55.425] [DEBUG] logDebug.js - non
+[2021-05-20T21:09:55.427] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:09:58.791] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx
+[2021-05-20T21:09:58.802] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:09:58.803] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:09:58.805] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:09:58.806] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:09:58.807] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:09:58.808] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:09:58.810] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:09:58.818] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:09:58.822] [DEBUG] logDebug.js - non
+[2021-05-20T21:09:58.822] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:09:59.326] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx
+[2021-05-20T21:09:59.338] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:09:59.339] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:09:59.340] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:09:59.341] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:09:59.342] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:09:59.343] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:09:59.343] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:09:59.344] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:09:59.345] [DEBUG] logDebug.js - non
+[2021-05-20T21:09:59.345] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:10:00.576] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx
+[2021-05-20T21:10:00.587] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:00.588] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:00.589] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:00.590] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:00.591] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:00.592] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:00.593] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:00.594] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:00.595] [DEBUG] logDebug.js - non
+[2021-05-20T21:10:00.595] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:10:03.475] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/
+[2021-05-20T21:10:03.491] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/index.jsx
+[2021-05-20T21:10:03.512] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:03.513] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:03.514] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:03.515] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:03.517] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:03.518] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:03.519] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:03.522] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:03.522] [DEBUG] logDebug.js - non
+[2021-05-20T21:10:03.522] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:10:03.523] [DEBUG] logDebug.js - [ false, 'err_token_invalid' ]
+[2021-05-20T21:10:03.523] [DEBUG] logDebug.js - [Object: null prototype] {}
+[2021-05-20T21:10:03.524] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:03.525] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:03.526] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:03.527] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:03.527] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:03.528] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:03.529] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:03.529] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:03.530] [DEBUG] logDebug.js - non
+[2021-05-20T21:10:03.530] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:10:03.538] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/login.jsx?error=Nincs%20belepve%20vagy%20hibas%20a%20token!
+[2021-05-20T21:10:05.237] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/login.jsx?user=tucika&pass=asdasd
+[2021-05-20T21:10:05.263] [FATAL] default - uncaughtException: Error: Cannot find module './database/accounts/tucika.json'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\public\virtual_desk\login.jsx
+- D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\defaultRequestHandler.js
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:941:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:774:27)
+    at Module.require (node:internal/modules/cjs/loader:1013:19)
+    at require (node:internal/modules/cjs/helpers:93:18)
+    at Object.exports.run (D:\OneDrive\Desktop\progs\ExtraServer\public\virtual_desk\login.jsx:12:32)
+    at Server.server.requestHandler (D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\defaultRequestHandler.js:164:32)
+    at Server.emit (node:events:377:35)
+    at parserOnIncoming (node:_http_server:924:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:127:17)
+[2021-05-20T21:10:18.514] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/login.jsx?user=admin&pass=admin
+[2021-05-20T21:10:18.647] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/index.jsx?token=02c6af96316162beb0ded80b7e35e0cd
+[2021-05-20T21:10:18.657] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:18.658] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:18.659] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:18.662] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:18.697] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:18.699] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:18.700] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:18.701] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:18.701] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:18.702] [DEBUG] logDebug.js - reteyááá
+[2021-05-20T21:10:18.702] [DEBUG] logDebug.js - [ true, 'admin' ]
+[2021-05-20T21:10:18.703] [DEBUG] logDebug.js - [Object: null prototype] { token: '02c6af96316162beb0ded80b7e35e0cd' }
+[2021-05-20T21:10:18.704] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:18.705] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:18.705] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:18.706] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:18.707] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:18.708] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:18.709] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:18.710] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:18.711] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:18.712] [DEBUG] logDebug.js - reteyááá
+[2021-05-20T21:10:18.713] [DEBUG] logDebug.js - asd.txt
+[2021-05-20T21:10:18.716] [DEBUG] logDebug.js - autorun.js
+[2021-05-20T21:10:18.717] [DEBUG] logDebug.js - console.js
+[2021-05-20T21:10:18.718] [DEBUG] logDebug.js - cursssher.js
+[2021-05-20T21:10:18.718] [DEBUG] logDebug.js - easyEditor_Data
+[2021-05-20T21:10:18.719] [DEBUG] logDebug.js - explorer.js
+[2021-05-20T21:10:18.719] [DEBUG] logDebug.js - filesystem.jsx
+[2021-05-20T21:10:18.721] [DEBUG] logDebug.js - fireget.js
+[2021-05-20T21:10:18.721] [DEBUG] logDebug.js - fss.lnk
+[2021-05-20T21:10:18.722] [DEBUG] logDebug.js - game.html
+[2021-05-20T21:10:18.723] [DEBUG] logDebug.js - game.js
+[2021-05-20T21:10:18.724] [DEBUG] logDebug.js - gandalf.mp4
+[2021-05-20T21:10:18.724] [DEBUG] logDebug.js - kep_nez.js
+[2021-05-20T21:10:18.725] [DEBUG] logDebug.js - kereske_Data
+[2021-05-20T21:10:18.725] [DEBUG] logDebug.js - kuka.txt
+[2021-05-20T21:10:18.726] [DEBUG] logDebug.js - lacsavaecse_lunarabissz.mp3
+[2021-05-20T21:10:18.729] [DEBUG] logDebug.js - lalala.mp3
+[2021-05-20T21:10:18.729] [DEBUG] logDebug.js - media_play.js
+[2021-05-20T21:10:18.730] [DEBUG] logDebug.js - muzsika_play.js
+[2021-05-20T21:10:18.731] [DEBUG] logDebug.js - proEdit.js
+[2021-05-20T21:10:18.733] [DEBUG] logDebug.js - proEdit_data
+[2021-05-20T21:10:18.733] [DEBUG] logDebug.js - proedit_save.jsx
+[2021-05-20T21:10:18.734] [DEBUG] logDebug.js - prog.js
+[2021-05-20T21:10:18.735] [DEBUG] logDebug.js - Searcher_Data
+[2021-05-20T21:10:18.735] [DEBUG] logDebug.js - sim.js
+[2021-05-20T21:10:18.736] [DEBUG] logDebug.js - sim.jsx
+[2021-05-20T21:10:18.736] [DEBUG] logDebug.js - sounds
+[2021-05-20T21:10:18.737] [DEBUG] logDebug.js - system_apps
+[2021-05-20T21:10:18.737] [DEBUG] logDebug.js - szup.html
+[2021-05-20T21:10:18.738] [DEBUG] logDebug.js - szupikatest
+[2021-05-20T21:10:18.738] [DEBUG] logDebug.js - szupikatest.js
+[2021-05-20T21:10:18.739] [DEBUG] logDebug.js - szupszup.png
+[2021-05-20T21:10:18.740] [DEBUG] logDebug.js - test.app
+[2021-05-20T21:10:18.743] [DEBUG] logDebug.js - test.txt
+[2021-05-20T21:10:18.765] [DEBUG] logDebug.js - testerke.js
+[2021-05-20T21:10:18.775] [DEBUG] logDebug.js - tttttttttttttt
+[2021-05-20T21:10:18.794] [DEBUG] logDebug.js - vbx.js
+[2021-05-20T21:10:18.800] [DEBUG] logDebug.js - virt.js
+[2021-05-20T21:10:18.818] [DEBUG] logDebug.js - web.js
+[2021-05-20T21:10:18.869] [DEBUG] logDebug.js - webba.js
+[2021-05-20T21:10:18.903] [DEBUG] logDebug.js - windowloader.js
+[2021-05-20T21:10:19.111] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/icons/txt.png
+[2021-05-20T21:10:19.126] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/icons/js.png
+[2021-05-20T21:10:19.135] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/icons/NoIcon.png
+[2021-05-20T21:10:19.144] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/icons/jsx.png
+[2021-05-20T21:10:19.153] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/icons/html.png
+[2021-05-20T21:10:19.161] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/icons/mp3.png
+[2021-05-20T21:10:19.210] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/desks/admin/szupszup.png
+[2021-05-20T21:10:19.223] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/desktop/test.app/Icon.png
+[2021-05-20T21:10:23.895] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk//desks/admin/web.js
+[2021-05-20T21:10:37.122] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx
+[2021-05-20T21:10:37.133] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:37.136] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:37.137] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:37.138] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:37.139] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:37.140] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:37.141] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:37.141] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:37.142] [DEBUG] logDebug.js - non
+[2021-05-20T21:10:37.142] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:10:44.888] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx?token=02c6af96316162beb0ded80b7e35e0cd
+[2021-05-20T21:10:44.901] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:44.903] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:44.904] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:44.905] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:44.908] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:44.909] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:44.910] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:44.912] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:44.917] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:44.918] [DEBUG] logDebug.js - reteyááá
+[2021-05-20T21:10:47.041] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/quiz.jsx?token=02c6af96316162beb0ded80b7e35e0cd
+[2021-05-20T21:10:47.053] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:47.054] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:47.055] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:10:47.056] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:10:47.057] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:10:47.057] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:10:47.058] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:47.059] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:10:47.059] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:10:47.060] [DEBUG] logDebug.js - reteyááá
+[2021-05-20T21:11:41.011] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/
+[2021-05-20T21:11:43.223] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe//oobe.jsx
+[2021-05-20T21:11:43.253] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:11:43.254] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:11:43.255] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:11:43.255] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:11:43.256] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:11:43.257] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:11:43.258] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:11:43.258] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:11:43.259] [DEBUG] logDebug.js - non
+[2021-05-20T21:11:43.259] [DEBUG] logDebug.js - reteno
+[2021-05-20T21:11:47.378] [INFO] defaultRequestHandler.js - ::1 requested to /virtual_desk/oobe/oobe.jsx?token=02c6af96316162beb0ded80b7e35e0cd
+[2021-05-20T21:11:47.389] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:11:47.391] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:11:47.392] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-05-20T21:11:47.394] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-05-20T21:11:47.395] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-05-20T21:11:47.396] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-05-20T21:11:47.397] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:11:47.398] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-05-20T21:11:47.398] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-05-20T21:11:47.399] [DEBUG] logDebug.js - reteyááá

@@ -1,0 +1,1 @@
+addWindow("Szüppi","<h1>Szüpike</h1>")

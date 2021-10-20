@@ -1,0 +1,17 @@
+[2021-06-24T14:38:22.077] [INFO] default - |-----------------|
+[2021-06-24T14:38:22.165] [INFO] default - |ExtraServer START|
+[2021-06-24T14:38:22.165] [INFO] default - |-----------------|
+[2021-06-24T14:38:22.166] [INFO] default - starting newrelic...
+[2021-06-24T14:38:22.166] [INFO] default - creating server...
+[2021-06-24T14:38:22.174] [INFO] default - Loading plugins...
+[2021-06-24T14:38:22.175] [FATAL] default - Server was unable to start: Error: ENOENT: no such file or directory, scandir './server_plugins/'
+    at Object.readdirSync (node:fs:1381:3)
+    at extendedServer.start (D:\OneDrive\Desktop\progs\ExtraServer\ExtraLogin\server.js:85:33)
+    at Object.<anonymous> (D:\OneDrive\Desktop\progs\ExtraServer\ExtraLogin\server.js:119:6)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+    at node:internal/main/run_main_module:17:47
+[2021-06-24T14:38:22.175] [INFO] default - tictuc! elindult!

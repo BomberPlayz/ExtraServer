@@ -1,0 +1,6 @@
+{
+    path:"../../afinga/fss.jsx",
+    noWindow: true,
+    icon: "../Icons/jsx.png"
+
+}

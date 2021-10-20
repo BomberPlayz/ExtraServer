@@ -1,0 +1,7 @@
+//?debug=true;
+?overlang=text/html;
+?overSize=20;
+?deco=[{ range: new monaco.Range(1,1,1,10), options: { inlineClassName: 'red, underline, bold' }},];
+###start###
+<html>
+</html>

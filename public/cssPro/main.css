@@ -1,0 +1,18 @@
+input[type=text]:hover {
+  border-bottom: 5px solid blue;
+  animation: inputAnim 1s
+}
+
+@keyframes inputAnim {
+  0% {
+    border-bottom-width: 0%;
+  }
+  100% {
+    border-bottom-width: 100%;
+  }
+}
+
+input[type=text].border{
+  width:30%;
+
+}

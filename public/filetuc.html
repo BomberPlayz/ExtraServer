@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style media="screen">
+
+    </style>
+  </head>
+  <body>
+    <input type="file" id="fi">
+    <h3>file data:</h3>
+    <pre id="to"></pre>
+  </body>
+  <script type="text/javascript">
+  document.designMode = "on";
+    function readf(fi) {
+      var file = fi.target.files[0];
+      if (!file) {
+        return
+      }
+     var reader = new FileReader();
+     reader.onload = function(fi) {
+       var con = fi.target.result
+       displayContents(con)
+     }
+     reader.readAsText(file);
+    }
+    function displayContents(co) {
+      var element = document.getElementById('to');
+      element.textContent = co;
+    }
+    document.getElementById('fi')
+    .addEventListener('change', readf, false);
+  </script>
+</html>

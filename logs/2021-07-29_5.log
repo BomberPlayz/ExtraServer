@@ -1,0 +1,50 @@
+[2021-07-29T22:18:46.739] [INFO] default - |-----------------|
+[2021-07-29T22:18:46.743] [INFO] default - |ExtraServer START|
+[2021-07-29T22:18:46.743] [INFO] default - |-----------------|
+[2021-07-29T22:18:46.744] [INFO] default - starting newrelic...
+[2021-07-29T22:18:47.280] [INFO] default - creating server...
+[2021-07-29T22:18:47.280] [INFO] default - Loading plugins...
+[2021-07-29T22:18:47.282] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-07-29T22:18:47.407] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-07-29T22:18:47.409] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-07-29T22:18:47.412] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-07-29T22:18:47.413] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-07-29T22:18:47.415] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-07-29T22:18:47.418] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-07-29T22:18:47.424] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-07-29T22:18:47.424] [INFO] default - Loaded plugin logDebug.js
+[2021-07-29T22:18:47.426] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-07-29T22:18:47.431] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-07-29T22:18:47.431] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-07-29T22:18:47.431] [INFO] default - Starting to listen...
+[2021-07-29T22:18:47.435] [INFO] default - Server started!
+[2021-07-29T22:18:47.435] [INFO] default - tictuc! elindult!
+[2021-07-29T22:18:47.552] [INFO] defaultRequestHandler.js - ::ffff:37.76.75.247 requested to /Twenly/main.js
+[2021-07-29T22:18:47.553] [DEBUG] logDebug.js - {
+  '46.107.31.191': 87263628743687440000,
+  '::ffff:37.76.75.247': 762348723.9
+}
+[2021-07-29T22:18:47.554] [DEBUG] logDebug.js - BEFORE::762348723.9
+[2021-07-29T22:18:47.555] [DEBUG] logDebug.js - AFTER::762348724
+[2021-07-29T22:18:47.556] [DEBUG] logDebug.js - ::ffff:37.76.75.247 RATELIMIT COUNT: 762348724
+[2021-07-29T22:18:47.556] [DEBUG] logDebug.js - ::ffff:37.76.75.247 has been rateLimited!
+[2021-07-29T22:18:47.565] [INFO] defaultRequestHandler.js - ::ffff:37.76.75.247 requested to /Twenly/main.css
+[2021-07-29T22:18:47.565] [DEBUG] logDebug.js - {
+  '46.107.31.191': 87263628743687440000,
+  '::ffff:37.76.75.247': 762348724
+}
+[2021-07-29T22:18:47.565] [DEBUG] logDebug.js - BEFORE::762348724
+[2021-07-29T22:18:47.566] [DEBUG] logDebug.js - AFTER::762348724.1
+[2021-07-29T22:18:47.566] [DEBUG] logDebug.js - ::ffff:37.76.75.247 RATELIMIT COUNT: 762348724.1
+[2021-07-29T22:18:47.566] [DEBUG] logDebug.js - ::ffff:37.76.75.247 has been rateLimited!
+[2021-07-29T22:19:01.565] [INFO] defaultRequestHandler.js - ::ffff:37.76.75.247 requested to /Twenly/docs/index.jsx?comp=hormenu
+[2021-07-29T22:19:01.565] [DEBUG] logDebug.js - {
+  '46.107.31.191': 87263628743687440000,
+  '::ffff:37.76.75.247': 762348711.299997
+}
+[2021-07-29T22:19:01.566] [DEBUG] logDebug.js - BEFORE::762348711.299997
+[2021-07-29T22:19:01.566] [DEBUG] logDebug.js - AFTER::762348711.399997
+[2021-07-29T22:19:01.566] [DEBUG] logDebug.js - ::ffff:37.76.75.247 RATELIMIT COUNT: 762348711.399997
+[2021-07-29T22:19:01.567] [DEBUG] logDebug.js - ::ffff:37.76.75.247 has been rateLimited!

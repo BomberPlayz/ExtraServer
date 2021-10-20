@@ -1,0 +1,123 @@
+[2021-06-09T15:51:33.330] [INFO] default - |-----------------|
+[2021-06-09T15:51:33.338] [INFO] default - |ExtraServer START|
+[2021-06-09T15:51:33.338] [INFO] default - |-----------------|
+[2021-06-09T15:51:33.339] [INFO] default - creating server...
+[2021-06-09T15:51:33.340] [INFO] default - Loading plugins...
+[2021-06-09T15:51:33.348] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-09T15:51:33.752] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-09T15:51:33.755] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-09T15:51:33.755] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-09T15:51:33.758] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-09T15:51:33.760] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-09T15:51:33.761] [INFO] default - Loaded plugin logDebug.js
+[2021-06-09T15:51:33.763] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-09T15:51:33.766] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-09T15:51:33.767] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-09T15:51:33.767] [INFO] default - Starting to listen...
+[2021-06-09T15:51:33.770] [INFO] default - Server started!
+[2021-06-09T15:51:33.774] [INFO] default - tictuc! elindult!
+[2021-06-09T15:51:36.128] [INFO] defaultRequestHandler.js - ::1 requested to /tafonya.jsx?user=afonya&start=2000&end=4000
+[2021-06-09T15:51:36.319] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.419] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.504] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.604] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.678] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.795] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.908] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:36.985] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.092] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.187] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.276] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.298] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:37.443] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.528] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.619] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.707] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.811] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:37.918] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.054] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.143] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.259] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.442] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.657] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.665] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:38.753] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.844] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:38.927] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.020] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.132] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.235] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.324] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.404] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.508] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.586] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.667] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.668] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:39.746] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:39.875] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.023] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.110] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.208] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.284] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.363] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.440] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.518] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.601] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.684] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.686] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:40.800] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:40.941] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.049] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.157] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.243] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.324] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.437] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.526] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.620] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.790] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:41.986] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.025] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:42.228] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.474] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.561] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.641] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.749] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.856] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:42.956] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.043] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.142] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.225] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.300] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.301] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:43.378] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.458] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.538] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.620] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.752] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.843] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:43.928] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.016] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.094] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.178] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.254] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.255] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:44.355] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.445] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.523] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.608] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.779] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:44.905] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.040] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.207] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.321] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.410] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.592] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.595] [DEBUG] logDebug.js - TEZESTEZZ
+[2021-06-09T15:51:45.690] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:45.846] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:46.032] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:46.490] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:46.711] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:46.909] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:47.036] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match
+[2021-06-09T15:51:47.168] [DEBUG] logDebug.js - kapotot: err_user_not_exists_or_token_not_match

@@ -1,0 +1,6 @@
+addWindow("Fájlkezelő",`
+
+
+
+
+`)

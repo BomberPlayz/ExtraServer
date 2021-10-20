@@ -1,0 +1,22 @@
+[2021-06-09T19:17:20.218] [INFO] default - |-----------------|
+[2021-06-09T19:17:20.222] [INFO] default - |ExtraServer START|
+[2021-06-09T19:17:20.222] [INFO] default - |-----------------|
+[2021-06-09T19:17:20.222] [INFO] default - creating server...
+[2021-06-09T19:17:20.223] [INFO] default - Loading plugins...
+[2021-06-09T19:17:20.227] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-09T19:17:20.430] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-09T19:17:20.433] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-09T19:17:20.434] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-09T19:17:20.436] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-09T19:17:20.438] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-09T19:17:20.438] [INFO] default - Loaded plugin logDebug.js
+[2021-06-09T19:17:20.439] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-09T19:17:20.442] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-09T19:17:20.443] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-09T19:17:20.443] [INFO] default - Starting to listen...
+[2021-06-09T19:17:20.447] [INFO] default - Server started!
+[2021-06-09T19:17:20.448] [INFO] default - tictuc! elindult!
+[2021-06-09T19:17:22.148] [INFO] defaultRequestHandler.js - ::1 requested to /dos.jsx?ip=http%3A%2F%2Fwin.crackpixel.hu%3A1028%2F%3Fusr%3Dasd%26token%3D7562&req=1000
+[2021-06-09T19:17:22.189] [DEBUG] logDebug.js - http://win.crackpixel.hu:1028/?usr=asd&token=7562
+[2021-06-09T19:17:39.736] [DEBUG] logDebug.js - DONE 1 REQ got data: Your ip has ben banned
+[2021-06-09T19:17:39.761] [DEBUG] logDebug.js - DONE 1 REQ got data: Your ip has ben banned

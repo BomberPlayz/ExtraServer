@@ -1,0 +1,317 @@
+[2021-05-24T00:30:30.594] [INFO] default - |-----------------|
+[2021-05-24T00:30:30.605] [INFO] default - |ExtraServer START|
+[2021-05-24T00:30:30.605] [INFO] default - |-----------------|
+[2021-05-24T00:30:30.606] [INFO] default - creating server...
+[2021-05-24T00:30:30.607] [INFO] default - Loading plugins...
+[2021-05-24T00:30:30.774] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-05-24T00:30:30.775] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-05-24T00:30:30.776] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-05-24T00:30:30.778] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-05-24T00:30:30.779] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-05-24T00:30:30.779] [INFO] default - Loaded plugin logDebug.js
+[2021-05-24T00:30:30.781] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-05-24T00:30:30.781] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-05-24T00:30:30.781] [INFO] default - Starting to listen...
+[2021-05-24T00:30:30.783] [INFO] default - Server started!
+[2021-05-24T00:30:30.784] [INFO] default - tictuc! elindult!
+[2021-05-24T00:42:41.820] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:42:41.858] [WARN] defaultRequestHandler.js - Requested file not found: /api.jsx
+[2021-05-24T00:43:22.347] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:46:25.504] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:46:53.609] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:46:53.641] [DEBUG] logDebug.js - day
+[2021-05-24T00:47:13.364] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:47:13.373] [DEBUG] logDebug.js - day
+[2021-05-24T00:47:13.373] [DEBUG] logDebug.js - day
+[2021-05-24T00:51:55.468] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:51:55.478] [DEBUG] logDebug.js - day
+[2021-05-24T00:51:55.478] [DEBUG] logDebug.js - day
+[2021-05-24T00:51:55.478] [DEBUG] logDebug.js - its equal
+[2021-05-24T00:52:38.064] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:52:38.073] [DEBUG] logDebug.js - day
+[2021-05-24T00:52:38.073] [DEBUG] logDebug.js - day
+[2021-05-24T00:52:38.073] [DEBUG] logDebug.js - its equal
+[2021-05-24T00:52:38.074] [DEBUG] logDebug.js - notFound
+[2021-05-24T00:53:36.512] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:53:36.546] [INFO] defaultRequestHandler.js - TypeError: Cannot read property 'name' of undefined
+    at Object.exports.run (D:\OneDrive\Desktop\progs\ExtraServer\public\lvs\api.jsx:11:39)
+    at Server.server.requestHandler (D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\defaultRequestHandler.js:164:32)
+    at Server.emit (node:events:377:35)
+    at parserOnIncoming (node:_http_server:924:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:127:17)
+[2021-05-24T00:53:36.548] [ERROR] defaultRequestHandler.js - An error occured while loading a file: TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of TypeError
+[2021-05-24T00:54:51.468] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:54:51.476] [DEBUG] logDebug.js - day
+[2021-05-24T00:54:51.477] [DEBUG] logDebug.js - day
+[2021-05-24T00:54:51.477] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:54:51.478] [DEBUG] logDebug.js - day
+[2021-05-24T00:55:12.469] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:55:12.479] [DEBUG] logDebug.js - day
+[2021-05-24T00:55:12.479] [DEBUG] logDebug.js - day
+[2021-05-24T00:55:12.479] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:55:12.481] [DEBUG] logDebug.js - day
+[2021-05-24T00:55:56.220] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:55:56.229] [DEBUG] logDebug.js - day
+[2021-05-24T00:55:56.229] [DEBUG] logDebug.js - day
+[2021-05-24T00:55:56.230] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:55:56.230] [DEBUG] logDebug.js - time set day
+[2021-05-24T00:57:00.471] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:57:00.480] [DEBUG] logDebug.js - day
+[2021-05-24T00:57:00.481] [DEBUG] logDebug.js - day
+[2021-05-24T00:57:00.481] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:57:00.481] [DEBUG] logDebug.js - time set day
+[2021-05-24T00:58:39.629] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=Day
+[2021-05-24T00:58:39.638] [DEBUG] logDebug.js - day
+[2021-05-24T00:58:39.639] [DEBUG] logDebug.js - Day
+[2021-05-24T00:58:39.639] [DEBUG] logDebug.js - notFound
+[2021-05-24T00:58:42.019] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=Day
+[2021-05-24T00:58:42.028] [DEBUG] logDebug.js - day
+[2021-05-24T00:58:42.028] [DEBUG] logDebug.js - Day
+[2021-05-24T00:58:42.029] [DEBUG] logDebug.js - notFound
+[2021-05-24T00:58:55.832] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:58:55.841] [DEBUG] logDebug.js - day
+[2021-05-24T00:58:55.841] [DEBUG] logDebug.js - day
+[2021-05-24T00:58:55.842] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:58:55.842] [DEBUG] logDebug.js - time set day
+[2021-05-24T00:59:50.686] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:59:50.695] [DEBUG] logDebug.js - day
+[2021-05-24T00:59:50.696] [DEBUG] logDebug.js - day
+[2021-05-24T00:59:50.696] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:59:50.696] [DEBUG] logDebug.js - time set day
+[2021-05-24T00:59:58.426] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T00:59:58.436] [DEBUG] logDebug.js - day
+[2021-05-24T00:59:58.436] [DEBUG] logDebug.js - day
+[2021-05-24T00:59:58.436] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T00:59:58.437] [DEBUG] logDebug.js - time set day
+[2021-05-24T01:00:08.636] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=Day
+[2021-05-24T01:00:08.666] [DEBUG] logDebug.js - day
+[2021-05-24T01:00:08.666] [DEBUG] logDebug.js - Day
+[2021-05-24T01:00:08.666] [DEBUG] logDebug.js - notFound
+[2021-05-24T01:00:12.024] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=Day
+[2021-05-24T01:00:12.033] [DEBUG] logDebug.js - day
+[2021-05-24T01:00:12.034] [DEBUG] logDebug.js - Day
+[2021-05-24T01:00:12.034] [DEBUG] logDebug.js - notFound
+[2021-05-24T01:00:26.723] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T01:00:26.732] [DEBUG] logDebug.js - day
+[2021-05-24T01:00:26.732] [DEBUG] logDebug.js - day
+[2021-05-24T01:00:26.733] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T01:00:26.733] [DEBUG] logDebug.js - time set day
+[2021-05-24T01:05:54.434] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=also
+[2021-05-24T01:05:54.444] [DEBUG] logDebug.js - day
+[2021-05-24T01:05:54.444] [DEBUG] logDebug.js - also
+[2021-05-24T01:05:54.444] [DEBUG] logDebug.js - also
+[2021-05-24T01:05:54.445] [DEBUG] logDebug.js - also
+[2021-05-24T01:05:54.445] [DEBUG] logDebug.js - its equal: also
+[2021-05-24T01:05:54.446] [DEBUG] logDebug.js - say also, i can add commands without restarting TWMS with external server access. Isnt it cool?
+[2021-05-24T01:06:24.137] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=also
+[2021-05-24T01:06:24.146] [DEBUG] logDebug.js - day
+[2021-05-24T01:06:24.146] [DEBUG] logDebug.js - also
+[2021-05-24T01:06:24.147] [DEBUG] logDebug.js - also
+[2021-05-24T01:06:24.148] [DEBUG] logDebug.js - also
+[2021-05-24T01:06:24.148] [DEBUG] logDebug.js - its equal: also
+[2021-05-24T01:06:24.149] [DEBUG] logDebug.js - say The whole thing is dynamic
+[2021-05-24T01:37:28.935] [INFO] defaultRequestHandler.js - ::ffff:144.126.217.46 requested to /
+[2021-05-24T01:52:21.385] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /
+[2021-05-24T01:52:21.602] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /index.html
+[2021-05-24T01:52:21.946] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /favicon.ico
+[2021-05-24T01:52:21.954] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-05-24T01:52:39.229] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T01:52:39.238] [DEBUG] logDebug.js - day
+[2021-05-24T01:52:39.239] [DEBUG] logDebug.js - day
+[2021-05-24T01:52:39.239] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T01:52:39.239] [DEBUG] logDebug.js - also
+[2021-05-24T01:52:39.240] [DEBUG] logDebug.js - day
+[2021-05-24T01:52:39.240] [DEBUG] logDebug.js - time set day
+[2021-05-24T01:53:37.342] [INFO] defaultRequestHandler.js - ::1 requested to /
+[2021-05-24T01:53:37.358] [INFO] defaultRequestHandler.js - ::1 requested to /index.html
+[2021-05-24T01:53:37.511] [INFO] defaultRequestHandler.js - ::1 requested to /favicon.ico
+[2021-05-24T01:53:37.519] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-05-24T01:53:40.214] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T01:53:40.224] [DEBUG] logDebug.js - day
+[2021-05-24T01:53:40.224] [DEBUG] logDebug.js - day
+[2021-05-24T01:53:40.224] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T01:53:40.225] [DEBUG] logDebug.js - also
+[2021-05-24T01:53:40.225] [DEBUG] logDebug.js - day
+[2021-05-24T01:53:40.225] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T01:54:36.268] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T01:54:36.278] [DEBUG] logDebug.js - day
+[2021-05-24T01:54:36.278] [DEBUG] logDebug.js - day
+[2021-05-24T01:54:36.279] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T01:54:36.279] [DEBUG] logDebug.js - also
+[2021-05-24T01:54:36.280] [DEBUG] logDebug.js - day
+[2021-05-24T01:54:36.280] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T01:59:54.225] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSall
+[2021-05-24T01:59:54.236] [INFO] defaultRequestHandler.js - ReferenceError: Cannot access 'res' before initialization
+    at Object.exports.run (D:\OneDrive\Desktop\progs\ExtraServer\public\lvs\api.jsx:32:23)
+    at Server.server.requestHandler (D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\defaultRequestHandler.js:164:32)
+    at Server.emit (node:events:377:35)
+    at parserOnIncoming (node:_http_server:924:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:127:17)
+[2021-05-24T01:59:54.236] [ERROR] defaultRequestHandler.js - An error occured while loading a file: TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of ReferenceError
+[2021-05-24T01:59:56.739] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSall
+[2021-05-24T01:59:56.752] [INFO] defaultRequestHandler.js - ReferenceError: Cannot access 'res' before initialization
+    at Object.exports.run (D:\OneDrive\Desktop\progs\ExtraServer\public\lvs\api.jsx:32:23)
+    at Server.server.requestHandler (D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\defaultRequestHandler.js:164:32)
+    at Server.emit (node:events:377:35)
+    at parserOnIncoming (node:_http_server:924:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:127:17)
+[2021-05-24T01:59:56.755] [ERROR] defaultRequestHandler.js - An error occured while loading a file: TypeError [ERR_INVALID_ARG_TYPE]: The "chunk" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of ReferenceError
+[2021-05-24T02:00:35.800] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSall
+[2021-05-24T02:00:50.052] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSall
+[2021-05-24T02:01:18.272] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSall
+[2021-05-24T02:04:10.853] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:04:10.862] [DEBUG] logDebug.js - day
+[2021-05-24T02:04:10.863] [DEBUG] logDebug.js - day
+[2021-05-24T02:04:10.863] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:04:10.864] [DEBUG] logDebug.js - also
+[2021-05-24T02:04:10.864] [DEBUG] logDebug.js - day
+[2021-05-24T02:04:10.865] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:05:10.641] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:05:10.650] [DEBUG] logDebug.js - day
+[2021-05-24T02:05:10.650] [DEBUG] logDebug.js - day
+[2021-05-24T02:05:10.651] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:05:10.651] [DEBUG] logDebug.js - also
+[2021-05-24T02:05:10.651] [DEBUG] logDebug.js - day
+[2021-05-24T02:05:10.652] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:05:47.792] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:05:47.801] [DEBUG] logDebug.js - day
+[2021-05-24T02:05:47.801] [DEBUG] logDebug.js - day
+[2021-05-24T02:05:47.801] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:05:47.802] [DEBUG] logDebug.js - also
+[2021-05-24T02:05:47.802] [DEBUG] logDebug.js - day
+[2021-05-24T02:05:47.802] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:07:19.448] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:07:19.457] [DEBUG] logDebug.js - day
+[2021-05-24T02:07:19.457] [DEBUG] logDebug.js - day
+[2021-05-24T02:07:19.458] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:07:19.458] [DEBUG] logDebug.js - also
+[2021-05-24T02:07:19.458] [DEBUG] logDebug.js - day
+[2021-05-24T02:07:19.459] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:07:51.497] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:07:51.506] [DEBUG] logDebug.js - day
+[2021-05-24T02:07:51.506] [DEBUG] logDebug.js - day
+[2021-05-24T02:07:51.507] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:07:51.507] [DEBUG] logDebug.js - also
+[2021-05-24T02:07:51.507] [DEBUG] logDebug.js - day
+[2021-05-24T02:07:51.507] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:08:21.055] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:08:21.064] [DEBUG] logDebug.js - day
+[2021-05-24T02:08:21.064] [DEBUG] logDebug.js - day
+[2021-05-24T02:08:21.065] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:08:21.065] [DEBUG] logDebug.js - also
+[2021-05-24T02:08:21.065] [DEBUG] logDebug.js - day
+[2021-05-24T02:08:21.066] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:09:26.956] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:09:26.965] [DEBUG] logDebug.js - day
+[2021-05-24T02:09:26.965] [DEBUG] logDebug.js - day
+[2021-05-24T02:09:26.966] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:09:26.967] [DEBUG] logDebug.js - also
+[2021-05-24T02:09:26.967] [DEBUG] logDebug.js - day
+[2021-05-24T02:09:26.967] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:10:01.155] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:10:01.165] [DEBUG] logDebug.js - day
+[2021-05-24T02:10:01.165] [DEBUG] logDebug.js - day
+[2021-05-24T02:10:01.165] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:10:01.166] [DEBUG] logDebug.js - also
+[2021-05-24T02:10:01.166] [DEBUG] logDebug.js - day
+[2021-05-24T02:10:01.166] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:11:44.116] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:11:44.125] [DEBUG] logDebug.js - day
+[2021-05-24T02:11:44.125] [DEBUG] logDebug.js - day
+[2021-05-24T02:11:44.126] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:11:44.126] [DEBUG] logDebug.js - also
+[2021-05-24T02:11:44.126] [DEBUG] logDebug.js - day
+[2021-05-24T02:11:44.127] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:12:10.314] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:12:10.323] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:10.323] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:10.324] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:12:10.324] [DEBUG] logDebug.js - also
+[2021-05-24T02:12:10.324] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:10.325] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:12:31.164] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:12:31.173] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:31.173] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:31.174] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:12:31.174] [DEBUG] logDebug.js - also
+[2021-05-24T02:12:31.175] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:31.175] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:12:38.810] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-05-24T02:12:58.351] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-05-24T02:12:58.360] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:58.360] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:58.361] [DEBUG] logDebug.js - its equal: day
+[2021-05-24T02:12:58.361] [DEBUG] logDebug.js - also
+[2021-05-24T02:12:58.361] [DEBUG] logDebug.js - day
+[2021-05-24T02:12:58.362] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-05-24T02:28:11.587] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-05-24T02:28:11.596] [DEBUG] logDebug.js - day
+[2021-05-24T02:28:11.596] [DEBUG] logDebug.js - night
+[2021-05-24T02:28:11.597] [DEBUG] logDebug.js - also
+[2021-05-24T02:28:11.597] [DEBUG] logDebug.js - night
+[2021-05-24T02:28:11.597] [DEBUG] logDebug.js - notFound
+[2021-05-24T02:29:06.188] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-05-24T02:29:06.228] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' }
+]
+[2021-05-24T02:29:06.241] [DEBUG] logDebug.js - day
+[2021-05-24T02:29:06.242] [DEBUG] logDebug.js - night
+[2021-05-24T02:29:06.242] [DEBUG] logDebug.js - also
+[2021-05-24T02:29:06.242] [DEBUG] logDebug.js - night
+[2021-05-24T02:29:06.243] [DEBUG] logDebug.js - notFound
+[2021-05-24T02:29:56.687] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-05-24T02:29:56.697] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' }
+]
+[2021-05-24T02:29:56.698] [DEBUG] logDebug.js - day
+[2021-05-24T02:29:56.698] [DEBUG] logDebug.js - night
+[2021-05-24T02:29:56.698] [DEBUG] logDebug.js - also
+[2021-05-24T02:29:56.699] [DEBUG] logDebug.js - night
+[2021-05-24T02:29:56.699] [DEBUG] logDebug.js - notFound
+[2021-05-24T02:30:30.117] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSset&name=night&desc=Sets%20time%20to%20night.&run=time%20set%20night
+[2021-05-24T02:30:30.151] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' }
+]
+[2021-05-24T02:30:45.369] [INFO] defaultRequestHandler.js - ::1 requested to /lvs/api.jsx?mode=TWMSset&name=night&desc=Sets%20time%20to%20night.&run=time%20set%20night
+[2021-05-24T02:30:45.379] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+]
+[2021-05-24T02:30:48.189] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-05-24T02:30:48.198] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+]
+[2021-05-24T02:30:48.199] [DEBUG] logDebug.js - day
+[2021-05-24T02:30:48.199] [DEBUG] logDebug.js - night
+[2021-05-24T02:30:48.199] [DEBUG] logDebug.js - also
+[2021-05-24T02:30:48.200] [DEBUG] logDebug.js - night
+[2021-05-24T02:30:48.200] [DEBUG] logDebug.js - night
+[2021-05-24T02:30:48.201] [DEBUG] logDebug.js - night
+[2021-05-24T02:30:48.201] [DEBUG] logDebug.js - its equal: night
+[2021-05-24T02:30:48.202] [DEBUG] logDebug.js - night
+[2021-05-24T02:30:48.202] [DEBUG] logDebug.js - night
+[2021-05-24T02:30:48.203] [DEBUG] logDebug.js - its equal: night
+[2021-05-24T02:30:48.203] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-05-24T02:42:05.361] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=test
+[2021-05-24T02:42:05.371] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+]
+[2021-05-24T02:42:05.372] [DEBUG] logDebug.js - day
+[2021-05-24T02:42:05.372] [DEBUG] logDebug.js - test
+[2021-05-24T02:42:05.372] [DEBUG] logDebug.js - also
+[2021-05-24T02:42:05.373] [DEBUG] logDebug.js - test
+[2021-05-24T02:42:05.373] [DEBUG] logDebug.js - night
+[2021-05-24T02:42:05.374] [DEBUG] logDebug.js - test
+[2021-05-24T02:42:05.374] [DEBUG] logDebug.js - night
+[2021-05-24T02:42:05.374] [DEBUG] logDebug.js - test
+[2021-05-24T02:42:05.375] [DEBUG] logDebug.js - notFound

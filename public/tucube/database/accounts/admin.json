@@ -1,0 +1,13 @@
+{
+    "name": "admin",
+    "logins": [
+        {
+            "place": "Budapest",
+            "ip": "0.0.0.0"
+        }
+    ],
+    "state": "open",
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "token": "02c6af96316162beb0ded80b7e35e0cd",
+    "Error: ": "Error:"
+}

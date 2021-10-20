@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <style media="screen">
+
+    </style>
+  </head>
+  <body>
+
+  </body>
+  <script type="text/javascript">
+    var game = {
+      width: 640,
+      height: 480,
+      canvas: document.createElement("canvas"),
+      create: function(width, height) {
+        this.canvas.width = width
+        this.canvas.height = height
+        this.context = this.canvas.geContext("2d")
+        document.body.appendChild(this.canvas)
+      },
+      load: function(level) {
+
+      },
+      clear: function() {
+        this.context.clearRect(0, 0, this.width, this.height)
+      },
+    }
+    function item(x, y) {
+      this.x = x
+      this.y = y
+      this.height = 0
+      this.width = 0
+      this.color = "white"
+      this.render = function() {
+        context = game.context
+        context.fillStyle = this.color
+      }
+    }
+    game.setup = function() {
+      game.create(game.width, game.height)
+      game.load()
+    }
+  </script>
+</html>

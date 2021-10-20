@@ -1,0 +1,703 @@
+[2021-06-05T14:09:15.408] [INFO] default - |-----------------|
+[2021-06-05T14:09:15.523] [INFO] default - |ExtraServer START|
+[2021-06-05T14:09:15.524] [INFO] default - |-----------------|
+[2021-06-05T14:09:15.525] [INFO] default - creating server...
+[2021-06-05T14:09:15.534] [INFO] default - Loading plugins...
+[2021-06-05T14:09:15.554] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-05T14:09:16.818] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-05T14:09:16.845] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-05T14:09:16.845] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-05T14:09:16.848] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-05T14:09:16.851] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-05T14:09:16.852] [INFO] default - Loaded plugin logDebug.js
+[2021-06-05T14:09:16.863] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-05T14:09:16.869] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-05T14:09:16.869] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-05T14:09:16.870] [INFO] default - Starting to listen...
+[2021-06-05T14:09:16.903] [INFO] default - Server started!
+[2021-06-05T14:09:16.904] [INFO] default - tictuc! elindult!
+[2021-06-05T14:46:08.218] [INFO] defaultRequestHandler.js - ::1 requested to /
+[2021-06-05T14:46:08.271] [INFO] defaultRequestHandler.js - ::1 requested to /index.html
+[2021-06-05T14:46:08.524] [INFO] defaultRequestHandler.js - ::1 requested to /favicon.ico
+[2021-06-05T14:46:08.534] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-06-05T14:46:14.923] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel
+[2021-06-05T14:46:14.943] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/index.jsx
+[2021-06-05T14:46:15.107] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/ansi_up.js
+[2021-06-05T14:46:15.154] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-05T14:46:15.206] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-05T14:46:17.540] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/login.jsx?scope=user,media,storage,data&redirect=../cpanel/index.jsx
+[2021-06-05T14:46:17.656] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/ansi_up.js
+[2021-06-05T14:46:17.680] [WARN] defaultRequestHandler.js - Requested file not found: /token_login/ansi_up.js
+[2021-06-05T14:46:17.689] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-05T14:46:17.720] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-05T14:46:19.321] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/login.jsx?user=tucika&pass=asdasd&site=main&redirect=..%2Fcpanel%2Findex.jsx
+[2021-06-05T14:46:19.447] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/ansi_up.js
+[2021-06-05T14:46:19.463] [WARN] defaultRequestHandler.js - Requested file not found: /token_login/ansi_up.js
+[2021-06-05T14:46:19.465] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-05T14:46:19.482] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-05T14:46:19.649] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/index.jsx?token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-05T14:46:19.732] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-05T14:46:19.762] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/ansi_up.js
+[2021-06-05T14:46:19.820] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-05T14:46:19.999] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=verify&token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-05T14:46:20.124] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=verify&token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-05T14:46:20.150] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=getData&token=0a1f8074ff8778ff5cade28f319025e4&key=cpanel_stored_default_data
+[2021-06-05T14:46:20.189] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=getData&token=0a1f8074ff8778ff5cade28f319025e4&key=cpanel_stored_default_data
+[2021-06-05T14:46:20.228] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=getDataBulk&token=0a1f8074ff8778ff5cade28f319025e4&key=cpanel_
+[2021-06-05T14:46:20.280] [DEBUG] logDebug.js - DATTTTAAAAAAAAAAAAAAAAAAAAAAAAAA: true
+[2021-06-05T14:46:20.281] [DEBUG] logDebug.js - DATTTTAAAAAAAAAAAAAAAAAAAAAAAAAA: default
+[2021-06-05T14:46:20.281] [DEBUG] logDebug.js - stringed: ["949761","5409937"]
+[2021-06-05T14:46:20.283] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=getDataBulk&token=0a1f8074ff8778ff5cade28f319025e4&key=cpanel_
+[2021-06-05T14:46:20.312] [DEBUG] logDebug.js - DATTTTAAAAAAAAAAAAAAAAAAAAAAAAAA: true
+[2021-06-05T14:46:20.313] [DEBUG] logDebug.js - DATTTTAAAAAAAAAAAAAAAAAAAAAAAAAA: default
+[2021-06-05T14:46:20.313] [DEBUG] logDebug.js - stringed: ["949761","5409937"]
+[2021-06-05T14:46:20.315] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=getData&token=0a1f8074ff8778ff5cade28f319025e4&key=user
+[2021-06-05T14:46:20.344] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=getData&token=0a1f8074ff8778ff5cade28f319025e4&key=user
+[2021-06-05T14:46:20.381] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-06-05T14:46:20.457] [DEBUG] logDebug.js - verify user...
+[2021-06-05T14:46:20.556] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-06-05T14:46:20.586] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-06-05T14:46:20.622] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-06-05T14:46:21.100] [DEBUG] logDebug.js - USSEDDD: 88.86206817626953 MB
+[2021-06-05T14:46:21.111] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=5409937
+[2021-06-05T14:46:21.124] [DEBUG] logDebug.js - verify user...
+[2021-06-05T14:46:21.127] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-06-05T14:46:21.151] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-06-05T14:46:21.214] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-06-05T14:46:21.281] [DEBUG] logDebug.js - USSEDDD: 0 MB
+[2021-06-05T15:51:39.578] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T15:51:39.613] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T15:51:39.646] [DEBUG] logDebug.js - day
+[2021-06-05T15:51:39.646] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.646] [DEBUG] logDebug.js - also
+[2021-06-05T15:51:39.646] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.647] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.647] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.647] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T15:51:39.648] [DEBUG] logDebug.js - asd
+[2021-06-05T15:51:39.648] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.648] [DEBUG] logDebug.js - destroy
+[2021-06-05T15:51:39.649] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.649] [DEBUG] logDebug.js - torun
+[2021-06-05T15:51:39.649] [DEBUG] logDebug.js - night
+[2021-06-05T15:51:39.649] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T15:54:30.785] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=clear
+[2021-06-05T15:54:30.803] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T15:54:30.807] [DEBUG] logDebug.js - day
+[2021-06-05T15:54:30.807] [DEBUG] logDebug.js - clear
+[2021-06-05T15:54:30.810] [DEBUG] logDebug.js - also
+[2021-06-05T15:54:30.811] [DEBUG] logDebug.js - clear
+[2021-06-05T15:54:30.811] [DEBUG] logDebug.js - night
+[2021-06-05T15:54:30.812] [DEBUG] logDebug.js - clear
+[2021-06-05T15:54:30.812] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:30.812] [DEBUG] logDebug.js - clear
+[2021-06-05T15:54:30.813] [DEBUG] logDebug.js - destroy
+[2021-06-05T15:54:30.813] [DEBUG] logDebug.js - clear
+[2021-06-05T15:54:30.814] [DEBUG] logDebug.js - torun
+[2021-06-05T15:54:30.814] [DEBUG] logDebug.js - clear
+[2021-06-05T15:54:30.815] [DEBUG] logDebug.js - notFound
+[2021-06-05T15:54:37.935] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-05T15:54:37.947] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T15:54:52.642] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=asd
+[2021-06-05T15:54:52.653] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T15:54:52.655] [DEBUG] logDebug.js - day
+[2021-06-05T15:54:52.655] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.655] [DEBUG] logDebug.js - also
+[2021-06-05T15:54:52.656] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.657] [DEBUG] logDebug.js - night
+[2021-06-05T15:54:52.658] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.658] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.658] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.659] [DEBUG] logDebug.js - its equal: asd
+[2021-06-05T15:54:52.659] [DEBUG] logDebug.js - destroy
+[2021-06-05T15:54:52.659] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.660] [DEBUG] logDebug.js - torun
+[2021-06-05T15:54:52.660] [DEBUG] logDebug.js - asd
+[2021-06-05T15:54:52.661] [DEBUG] logDebug.js - { name: 'asd', desc: 'asd', run: 'say asd' }
+[2021-06-05T15:55:10.190] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=also
+[2021-06-05T15:55:10.202] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T15:55:10.203] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:10.204] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.204] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.204] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.205] [DEBUG] logDebug.js - its equal: also
+[2021-06-05T15:55:10.205] [DEBUG] logDebug.js - night
+[2021-06-05T15:55:10.206] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.206] [DEBUG] logDebug.js - asd
+[2021-06-05T15:55:10.207] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.207] [DEBUG] logDebug.js - destroy
+[2021-06-05T15:55:10.208] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.209] [DEBUG] logDebug.js - torun
+[2021-06-05T15:55:10.209] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:10.209] [DEBUG] logDebug.js - { name: 'also', run: 'say The whole thing is dynamic' }
+[2021-06-05T15:55:20.094] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T15:55:20.105] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T15:55:20.106] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.106] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.106] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T15:55:20.107] [DEBUG] logDebug.js - also
+[2021-06-05T15:55:20.107] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.108] [DEBUG] logDebug.js - night
+[2021-06-05T15:55:20.108] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.109] [DEBUG] logDebug.js - asd
+[2021-06-05T15:55:20.109] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.109] [DEBUG] logDebug.js - destroy
+[2021-06-05T15:55:20.110] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.110] [DEBUG] logDebug.js - torun
+[2021-06-05T15:55:20.110] [DEBUG] logDebug.js - day
+[2021-06-05T15:55:20.111] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T16:41:21.164] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T16:41:21.177] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T16:41:21.178] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.179] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.179] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T16:41:21.180] [DEBUG] logDebug.js - also
+[2021-06-05T16:41:21.180] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.180] [DEBUG] logDebug.js - night
+[2021-06-05T16:41:21.181] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.182] [DEBUG] logDebug.js - asd
+[2021-06-05T16:41:21.182] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.182] [DEBUG] logDebug.js - destroy
+[2021-06-05T16:41:21.183] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.183] [DEBUG] logDebug.js - torun
+[2021-06-05T16:41:21.183] [DEBUG] logDebug.js - day
+[2021-06-05T16:41:21.184] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T17:57:16.201] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T17:57:16.214] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T17:57:16.215] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.216] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.216] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T17:57:16.217] [DEBUG] logDebug.js - also
+[2021-06-05T17:57:16.217] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.218] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:16.218] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.218] [DEBUG] logDebug.js - asd
+[2021-06-05T17:57:16.219] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.220] [DEBUG] logDebug.js - destroy
+[2021-06-05T17:57:16.222] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.222] [DEBUG] logDebug.js - torun
+[2021-06-05T17:57:16.223] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:16.223] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T17:57:20.904] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T17:57:20.916] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T17:57:20.917] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:20.918] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.918] [DEBUG] logDebug.js - also
+[2021-06-05T17:57:20.918] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.919] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.919] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.919] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T17:57:20.920] [DEBUG] logDebug.js - asd
+[2021-06-05T17:57:20.920] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.920] [DEBUG] logDebug.js - destroy
+[2021-06-05T17:57:20.921] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.922] [DEBUG] logDebug.js - torun
+[2021-06-05T17:57:20.922] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:20.923] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T17:57:28.249] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T17:57:28.261] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T17:57:28.262] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.262] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.263] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T17:57:28.263] [DEBUG] logDebug.js - also
+[2021-06-05T17:57:28.263] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.265] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:28.265] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.265] [DEBUG] logDebug.js - asd
+[2021-06-05T17:57:28.266] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.266] [DEBUG] logDebug.js - destroy
+[2021-06-05T17:57:28.267] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.267] [DEBUG] logDebug.js - torun
+[2021-06-05T17:57:28.268] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:28.268] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T17:57:37.013] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T17:57:37.024] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T17:57:37.025] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:37.025] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.026] [DEBUG] logDebug.js - also
+[2021-06-05T17:57:37.027] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.028] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.029] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.030] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T17:57:37.030] [DEBUG] logDebug.js - asd
+[2021-06-05T17:57:37.030] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.031] [DEBUG] logDebug.js - destroy
+[2021-06-05T17:57:37.031] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.031] [DEBUG] logDebug.js - torun
+[2021-06-05T17:57:37.032] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:37.033] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T17:57:42.857] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T17:57:42.870] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T17:57:42.871] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.871] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.872] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T17:57:42.872] [DEBUG] logDebug.js - also
+[2021-06-05T17:57:42.872] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.873] [DEBUG] logDebug.js - night
+[2021-06-05T17:57:42.874] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.874] [DEBUG] logDebug.js - asd
+[2021-06-05T17:57:42.874] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.875] [DEBUG] logDebug.js - destroy
+[2021-06-05T17:57:42.875] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.876] [DEBUG] logDebug.js - torun
+[2021-06-05T17:57:42.876] [DEBUG] logDebug.js - day
+[2021-06-05T17:57:42.877] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T18:01:23.958] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=also
+[2021-06-05T18:01:23.968] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T18:01:23.969] [DEBUG] logDebug.js - day
+[2021-06-05T18:01:23.969] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.969] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.970] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.970] [DEBUG] logDebug.js - its equal: also
+[2021-06-05T18:01:23.970] [DEBUG] logDebug.js - night
+[2021-06-05T18:01:23.970] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.971] [DEBUG] logDebug.js - asd
+[2021-06-05T18:01:23.971] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.973] [DEBUG] logDebug.js - destroy
+[2021-06-05T18:01:23.973] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.973] [DEBUG] logDebug.js - torun
+[2021-06-05T18:01:23.974] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:23.974] [DEBUG] logDebug.js - { name: 'also', run: 'say The whole thing is dynamic' }
+[2021-06-05T18:01:32.713] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=off
+[2021-06-05T18:01:32.723] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T18:01:32.724] [DEBUG] logDebug.js - day
+[2021-06-05T18:01:32.724] [DEBUG] logDebug.js - off
+[2021-06-05T18:01:32.724] [DEBUG] logDebug.js - also
+[2021-06-05T18:01:32.725] [DEBUG] logDebug.js - off
+[2021-06-05T18:01:32.725] [DEBUG] logDebug.js - night
+[2021-06-05T18:01:32.725] [DEBUG] logDebug.js - off
+[2021-06-05T18:01:32.726] [DEBUG] logDebug.js - asd
+[2021-06-05T18:01:32.726] [DEBUG] logDebug.js - off
+[2021-06-05T18:01:32.726] [DEBUG] logDebug.js - destroy
+[2021-06-05T18:01:32.727] [DEBUG] logDebug.js - off
+[2021-06-05T18:01:32.727] [DEBUG] logDebug.js - torun
+[2021-06-05T18:01:32.727] [DEBUG] logDebug.js - off
+[2021-06-05T18:01:32.728] [DEBUG] logDebug.js - notFound
+[2021-06-05T18:02:01.856] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=ALALA
+[2021-06-05T18:02:01.867] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T18:02:01.868] [DEBUG] logDebug.js - day
+[2021-06-05T18:02:01.868] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:01.869] [DEBUG] logDebug.js - also
+[2021-06-05T18:02:01.869] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:01.869] [DEBUG] logDebug.js - night
+[2021-06-05T18:02:01.870] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:01.870] [DEBUG] logDebug.js - asd
+[2021-06-05T18:02:01.870] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:01.871] [DEBUG] logDebug.js - destroy
+[2021-06-05T18:02:01.871] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:01.871] [DEBUG] logDebug.js - torun
+[2021-06-05T18:02:01.872] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:01.872] [DEBUG] logDebug.js - notFound
+[2021-06-05T18:02:58.114] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=ALALA
+[2021-06-05T18:02:58.124] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-05T18:02:58.126] [DEBUG] logDebug.js - day
+[2021-06-05T18:02:58.127] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.127] [DEBUG] logDebug.js - also
+[2021-06-05T18:02:58.127] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.127] [DEBUG] logDebug.js - night
+[2021-06-05T18:02:58.128] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.128] [DEBUG] logDebug.js - asd
+[2021-06-05T18:02:58.129] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.129] [DEBUG] logDebug.js - destroy
+[2021-06-05T18:02:58.129] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.129] [DEBUG] logDebug.js - torun
+[2021-06-05T18:02:58.130] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.130] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.131] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:02:58.133] [DEBUG] logDebug.js - its equal: ALALA
+[2021-06-05T18:02:58.133] [DEBUG] logDebug.js - { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+[2021-06-05T18:11:27.580] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T18:11:27.591] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-05T18:11:27.592] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.592] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.593] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T18:11:27.593] [DEBUG] logDebug.js - also
+[2021-06-05T18:11:27.593] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.594] [DEBUG] logDebug.js - night
+[2021-06-05T18:11:27.594] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.594] [DEBUG] logDebug.js - asd
+[2021-06-05T18:11:27.594] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.595] [DEBUG] logDebug.js - destroy
+[2021-06-05T18:11:27.595] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.595] [DEBUG] logDebug.js - torun
+[2021-06-05T18:11:27.596] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.596] [DEBUG] logDebug.js - ALALA
+[2021-06-05T18:11:27.596] [DEBUG] logDebug.js - day
+[2021-06-05T18:11:27.596] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T20:01:40.082] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T20:01:40.094] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-05T20:01:40.095] [DEBUG] logDebug.js - day
+[2021-06-05T20:01:40.095] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.096] [DEBUG] logDebug.js - also
+[2021-06-05T20:01:40.097] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.097] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.098] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.098] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T20:01:40.099] [DEBUG] logDebug.js - asd
+[2021-06-05T20:01:40.099] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.100] [DEBUG] logDebug.js - destroy
+[2021-06-05T20:01:40.100] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.101] [DEBUG] logDebug.js - torun
+[2021-06-05T20:01:40.101] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.101] [DEBUG] logDebug.js - ALALA
+[2021-06-05T20:01:40.102] [DEBUG] logDebug.js - night
+[2021-06-05T20:01:40.103] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T20:02:02.773] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T20:02:02.785] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-05T20:02:02.786] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.787] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.788] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T20:02:02.788] [DEBUG] logDebug.js - also
+[2021-06-05T20:02:02.789] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.789] [DEBUG] logDebug.js - night
+[2021-06-05T20:02:02.790] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.790] [DEBUG] logDebug.js - asd
+[2021-06-05T20:02:02.790] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.790] [DEBUG] logDebug.js - destroy
+[2021-06-05T20:02:02.791] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.792] [DEBUG] logDebug.js - torun
+[2021-06-05T20:02:02.792] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.793] [DEBUG] logDebug.js - ALALA
+[2021-06-05T20:02:02.793] [DEBUG] logDebug.js - day
+[2021-06-05T20:02:02.794] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T20:40:53.923] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-05T20:40:53.936] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-05T23:59:59.929] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T23:59:59.941] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-05T23:59:59.945] [DEBUG] logDebug.js - day
+[2021-06-05T23:59:59.946] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.946] [DEBUG] logDebug.js - also
+[2021-06-05T23:59:59.946] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.947] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.947] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.947] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T23:59:59.948] [DEBUG] logDebug.js - asd
+[2021-06-05T23:59:59.948] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.948] [DEBUG] logDebug.js - destroy
+[2021-06-05T23:59:59.949] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.949] [DEBUG] logDebug.js - torun
+[2021-06-05T23:59:59.949] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.950] [DEBUG] logDebug.js - ALALA
+[2021-06-05T23:59:59.950] [DEBUG] logDebug.js - night
+[2021-06-05T23:59:59.950] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }

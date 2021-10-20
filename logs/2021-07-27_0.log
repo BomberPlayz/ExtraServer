@@ -1,0 +1,151 @@
+[2021-07-27T08:50:10.967] [INFO] default - |-----------------|
+[2021-07-27T08:50:10.969] [INFO] default - |ExtraServer START|
+[2021-07-27T08:50:10.969] [INFO] default - |-----------------|
+[2021-07-27T08:50:10.970] [INFO] default - starting newrelic...
+[2021-07-27T08:50:11.429] [INFO] default - creating server...
+[2021-07-27T08:50:11.430] [INFO] default - Loading plugins...
+[2021-07-27T08:50:11.433] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-07-27T08:50:11.547] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-07-27T08:50:11.549] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-07-27T08:50:11.550] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-07-27T08:50:11.551] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-07-27T08:50:11.564] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-07-27T08:50:11.565] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-07-27T08:50:11.566] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-07-27T08:50:11.567] [INFO] default - Loaded plugin logDebug.js
+[2021-07-27T08:50:11.568] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-07-27T08:50:11.569] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-07-27T08:50:11.569] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-07-27T08:50:11.570] [INFO] default - Starting to listen...
+[2021-07-27T08:50:11.571] [INFO] default - Server started!
+[2021-07-27T08:50:11.572] [INFO] default - tictuc! elindult!
+[2021-07-27T08:51:32.336] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /
+[2021-07-27T08:51:32.337] [DEBUG] logDebug.js - {}
+[2021-07-27T08:51:32.338] [DEBUG] logDebug.js - ::ffff:127.0.0.1 :: GEN RLIMIT
+[2021-07-27T08:51:32.340] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0
+[2021-07-27T08:51:32.420] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /index.html
+[2021-07-27T08:51:32.420] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:32.421] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:32.421] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:32.422] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:38.815] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/docs/index.jsx
+[2021-07-27T08:51:38.816] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:38.817] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:38.818] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:38.819] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:38.943] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.css
+[2021-07-27T08:51:38.944] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:38.944] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:38.946] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:38.946] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:38.958] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.js
+[2021-07-27T08:51:38.959] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-07-27T08:51:38.960] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-27T08:51:38.961] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-27T08:51:38.961] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-27T08:51:39.213] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-27T08:51:39.213] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:39.214] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:39.214] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:39.214] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:39.224] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-27T08:51:43.373] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/test.html?
+[2021-07-27T08:51:43.374] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:43.375] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:43.375] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:43.375] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:43.453] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.css
+[2021-07-27T08:51:43.454] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:43.454] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:43.455] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:43.455] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:43.464] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.js
+[2021-07-27T08:51:43.464] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-07-27T08:51:43.464] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-27T08:51:43.465] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-27T08:51:43.465] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-27T08:51:43.588] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/icons/x.png
+[2021-07-27T08:51:43.590] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:43.592] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:43.593] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:43.593] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:47.165] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/docs/index.jsx?comp=buttons
+[2021-07-27T08:51:47.165] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:47.166] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:47.166] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:47.167] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:47.234] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.js
+[2021-07-27T08:51:47.235] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-07-27T08:51:47.235] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-27T08:51:47.235] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-27T08:51:47.236] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-27T08:51:47.245] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.css
+[2021-07-27T08:51:47.246] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.2 }
+[2021-07-27T08:51:47.246] [DEBUG] logDebug.js - BEFORE::0.2
+[2021-07-27T08:51:47.246] [DEBUG] logDebug.js - AFTER::0.30000000000000004
+[2021-07-27T08:51:47.247] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.30000000000000004
+[2021-07-27T08:51:47.282] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-27T08:51:47.282] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:47.282] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:47.282] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:47.283] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:47.291] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-27T08:51:48.867] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/docs/index.jsx?comp=title
+[2021-07-27T08:51:48.867] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:48.868] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:48.868] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:48.870] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:48.944] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.css
+[2021-07-27T08:51:48.945] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:51:48.946] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:51:48.947] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:51:48.948] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:51:48.957] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.js
+[2021-07-27T08:51:48.958] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-07-27T08:51:48.958] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-27T08:51:48.959] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-27T08:51:48.959] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-27T08:52:25.814] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/docs/index.jsx?comp=title
+[2021-07-27T08:52:25.814] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:52:25.815] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:52:25.815] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:52:25.815] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:52:25.845] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.css
+[2021-07-27T08:52:25.848] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-07-27T08:52:25.849] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-27T08:52:25.849] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-27T08:52:25.849] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-27T08:52:25.858] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.js
+[2021-07-27T08:52:25.859] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.2 }
+[2021-07-27T08:52:25.859] [DEBUG] logDebug.js - BEFORE::0.2
+[2021-07-27T08:52:25.859] [DEBUG] logDebug.js - AFTER::0.30000000000000004
+[2021-07-27T08:52:25.859] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.30000000000000004
+[2021-07-27T08:52:25.926] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-27T08:52:25.926] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:52:25.926] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:52:25.926] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:52:25.927] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:52:25.934] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-27T08:52:27.773] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/docs/index.jsx?comp=message
+[2021-07-27T08:52:27.774] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:52:27.775] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:52:27.775] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:52:27.776] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:52:27.869] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.js
+[2021-07-27T08:52:27.870] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-27T08:52:27.872] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-27T08:52:27.872] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-27T08:52:27.872] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-27T08:52:27.882] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /Twenly/main.css
+[2021-07-27T08:52:27.882] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-07-27T08:52:27.883] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-27T08:52:27.883] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-27T08:52:27.883] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-27T08:52:27.926] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-27T08:52:27.926] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.2 }
+[2021-07-27T08:52:27.927] [DEBUG] logDebug.js - BEFORE::0.2
+[2021-07-27T08:52:27.927] [DEBUG] logDebug.js - AFTER::0.30000000000000004
+[2021-07-27T08:52:27.927] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.30000000000000004
+[2021-07-27T08:52:27.935] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico

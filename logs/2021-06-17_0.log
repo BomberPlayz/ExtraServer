@@ -1,0 +1,106 @@
+[2021-06-17T17:31:22.261] [INFO] default - |-----------------|
+[2021-06-17T17:31:22.737] [INFO] default - |ExtraServer START|
+[2021-06-17T17:31:22.871] [INFO] default - |-----------------|
+[2021-06-17T17:31:22.888] [INFO] default - creating server...
+[2021-06-17T17:31:22.919] [INFO] default - Loading plugins...
+[2021-06-17T17:31:22.959] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-17T17:31:23.169] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-17T17:31:23.170] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-06-17T17:31:23.198] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-17T17:31:23.234] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-17T17:31:23.283] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-17T17:31:23.286] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-06-17T17:31:23.291] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-17T17:31:23.293] [INFO] default - Loaded plugin logDebug.js
+[2021-06-17T17:31:23.315] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-17T17:31:23.332] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-17T17:31:23.333] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-17T17:31:23.334] [INFO] default - Starting to listen...
+[2021-06-17T17:31:23.336] [INFO] default - Server started!
+[2021-06-17T17:31:23.340] [INFO] default - tictuc! elindult!
+[2021-06-17T17:31:23.418] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/index.jsx?token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:31:23.418] [DEBUG] logDebug.js - {}
+[2021-06-17T17:31:23.419] [DEBUG] logDebug.js - ::ffff:127.0.0.1 :: GEN RLIMIT
+[2021-06-17T17:31:23.419] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0
+[2021-06-17T17:31:23.761] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-17T17:31:23.761] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-06-17T17:31:23.762] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:31:23.762] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:31:23.762] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:31:23.852] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/ansi_up.js
+[2021-06-17T17:31:23.854] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-06-17T17:31:23.854] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:31:23.854] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:31:23.855] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:31:23.874] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-17T17:31:23.874] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1 }
+[2021-06-17T17:31:23.875] [DEBUG] logDebug.js - ::1 :: GEN RLIMIT
+[2021-06-17T17:31:23.875] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0
+[2021-06-17T17:31:23.996] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=verify&token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:31:23.996] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:31:23.997] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:31:23.998] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:31:23.998] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:31:24.239] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-06-17T17:31:24.253] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:31:24.254] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:31:24.256] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:31:24.260] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:31:24.272] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-06-17T17:31:24.276] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?mode=verify&token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:31:24.277] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1, '::1': 0 }
+[2021-06-17T17:31:24.277] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-06-17T17:31:24.278] [DEBUG] logDebug.js - AFTER::0.2
+[2021-06-17T17:31:24.280] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-06-17T17:33:42.940] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/beta/index.jsx?token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:33:42.947] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:42.948] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:42.949] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:42.949] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:43.041] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-17T17:33:43.054] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:43.054] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:43.055] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:43.055] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:43.064] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/beta/ansi_up.js
+[2021-06-17T17:33:43.068] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0.1 }
+[2021-06-17T17:33:43.070] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-06-17T17:33:43.077] [DEBUG] logDebug.js - AFTER::0.2
+[2021-06-17T17:33:43.078] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.2
+[2021-06-17T17:33:43.097] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-17T17:33:43.098] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:43.103] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:43.111] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:43.114] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:43.252] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=verify&token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:33:43.268] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:43.269] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:43.269] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:43.270] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:43.320] [INFO] defaultRequestHandler.js - ::1 requested to /token_login/api.jsx?mode=verify&token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:33:43.321] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:43.321] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:43.322] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:43.323] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:55.357] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/index.jsx?token=0a1f8074ff8778ff5cade28f319025e4
+[2021-06-17T17:33:55.358] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:55.359] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:55.359] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:55.360] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:55.434] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-17T17:33:55.445] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0.1 }
+[2021-06-17T17:33:55.445] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-06-17T17:33:55.445] [DEBUG] logDebug.js - AFTER::0.2
+[2021-06-17T17:33:55.446] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.2
+[2021-06-17T17:33:55.467] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/ansi_up.js
+[2021-06-17T17:33:55.468] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0 }
+[2021-06-17T17:33:55.469] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-17T17:33:55.470] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-17T17:33:55.471] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-17T17:33:55.484] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-17T17:33:55.484] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::1': 0.1 }
+[2021-06-17T17:33:55.484] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-06-17T17:33:55.485] [DEBUG] logDebug.js - AFTER::0.2
+[2021-06-17T17:33:55.485] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.2

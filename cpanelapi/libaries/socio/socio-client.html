@@ -1,0 +1,14 @@
+
+    var iio = {}
+    iio.messez = {}
+    console.log("Plase import jquery")
+    var io = {"send": function(socmess, message) {
+        $.post("/api/socio/sys.js?socmess=" + socmess + "&message=" + message + "&mode=send")
+    },
+    "set": function(socmess, callb) {
+        iio.messez[socmess] = {}
+        iio.messez[socmess].callbacck = callb
+        $.post("/api/socio/sys.js?socmess=" + socmess + "&iio=" + JSON.stringify(iio) + "&callb=" + callb + "&mode=set")
+    }}
+
+

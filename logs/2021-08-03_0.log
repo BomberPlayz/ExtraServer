@@ -1,0 +1,69 @@
+[2021-08-03T15:46:20.979] [INFO] default - |-----------------|
+[2021-08-03T15:46:20.980] [INFO] default - |ExtraServer START|
+[2021-08-03T15:46:20.981] [INFO] default - |-----------------|
+[2021-08-03T15:46:20.982] [INFO] default - starting newrelic...
+[2021-08-03T15:46:21.660] [INFO] default - creating server...
+[2021-08-03T15:46:21.661] [INFO] default - Loading plugins...
+[2021-08-03T15:46:21.665] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-08-03T15:46:21.775] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-08-03T15:46:21.776] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-08-03T15:46:21.778] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-08-03T15:46:21.778] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-08-03T15:46:21.779] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-08-03T15:46:21.781] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-08-03T15:46:21.783] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-08-03T15:46:21.783] [INFO] default - Loaded plugin logDebug.js
+[2021-08-03T15:46:21.784] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-08-03T15:46:21.786] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-08-03T15:46:21.786] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-08-03T15:46:21.786] [INFO] default - Starting to listen...
+[2021-08-03T15:46:21.789] [INFO] default - Server started!
+[2021-08-03T15:46:21.789] [INFO] default - tictuc! elindult!
+[2021-08-03T15:49:59.738] [INFO] defaultRequestHandler.js - ::ffff:25.88.161.91 requested to /Twenly/main.css
+[2021-08-03T15:49:59.740] [DEBUG] logDebug.js - { '46.107.31.191': 87263628743687440000 }
+[2021-08-03T15:49:59.743] [DEBUG] logDebug.js - ::ffff:25.88.161.91 :: GEN RLIMIT
+[2021-08-03T15:49:59.743] [DEBUG] logDebug.js - ::ffff:25.88.161.91 RATELIMIT COUNT: 0
+[2021-08-03T15:49:59.779] [INFO] defaultRequestHandler.js - ::ffff:25.88.161.91 requested to /Twenly/main.js
+[2021-08-03T15:49:59.779] [DEBUG] logDebug.js - { '46.107.31.191': 87263628743687440000, '::ffff:25.88.161.91': 0 }
+[2021-08-03T15:49:59.780] [DEBUG] logDebug.js - BEFORE::0
+[2021-08-03T15:49:59.780] [DEBUG] logDebug.js - AFTER::0.1
+[2021-08-03T15:49:59.780] [DEBUG] logDebug.js - ::ffff:25.88.161.91 RATELIMIT COUNT: 0.1
+[2021-08-03T15:50:44.222] [INFO] defaultRequestHandler.js - ::ffff:25.88.161.91 requested to /Twenly/icons/x.png
+[2021-08-03T15:50:44.224] [DEBUG] logDebug.js - { '46.107.31.191': 87263628743687440000, '::ffff:25.88.161.91': 0 }
+[2021-08-03T15:50:44.225] [DEBUG] logDebug.js - BEFORE::0
+[2021-08-03T15:50:44.225] [DEBUG] logDebug.js - AFTER::0.1
+[2021-08-03T15:50:44.225] [DEBUG] logDebug.js - ::ffff:25.88.161.91 RATELIMIT COUNT: 0.1
+[2021-08-03T15:51:41.265] [INFO] defaultRequestHandler.js - ::ffff:25.88.161.91 requested to /Twenly/main.css
+[2021-08-03T15:51:41.270] [DEBUG] logDebug.js - { '46.107.31.191': 87263628743687440000, '::ffff:25.88.161.91': 0 }
+[2021-08-03T15:51:41.271] [DEBUG] logDebug.js - BEFORE::0
+[2021-08-03T15:51:41.271] [DEBUG] logDebug.js - AFTER::0.1
+[2021-08-03T15:51:41.272] [DEBUG] logDebug.js - ::ffff:25.88.161.91 RATELIMIT COUNT: 0.1
+[2021-08-03T15:51:41.283] [INFO] defaultRequestHandler.js - ::ffff:25.88.161.91 requested to /Twenly/main.js
+[2021-08-03T15:51:41.284] [DEBUG] logDebug.js - { '46.107.31.191': 87263628743687440000, '::ffff:25.88.161.91': 0.1 }
+[2021-08-03T15:51:41.284] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-08-03T15:51:41.285] [DEBUG] logDebug.js - AFTER::0.2
+[2021-08-03T15:51:41.285] [DEBUG] logDebug.js - ::ffff:25.88.161.91 RATELIMIT COUNT: 0.2
+[2021-08-03T15:52:15.692] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /
+[2021-08-03T15:52:15.696] [DEBUG] logDebug.js - { '46.107.31.191': 87263628743687440000, '::ffff:25.88.161.91': 0 }
+[2021-08-03T15:52:15.699] [DEBUG] logDebug.js - ::ffff:127.0.0.1 :: GEN RLIMIT
+[2021-08-03T15:52:15.700] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0
+[2021-08-03T15:52:15.713] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /index.html
+[2021-08-03T15:52:15.716] [DEBUG] logDebug.js - {
+  '46.107.31.191': 87263628743687440000,
+  '::ffff:25.88.161.91': 0,
+  '::ffff:127.0.0.1': 0
+}
+[2021-08-03T15:52:15.717] [DEBUG] logDebug.js - BEFORE::0
+[2021-08-03T15:52:15.718] [DEBUG] logDebug.js - AFTER::0.1
+[2021-08-03T15:52:15.718] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-08-03T15:52:20.964] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /login2
+[2021-08-03T15:52:20.964] [DEBUG] logDebug.js - {
+  '46.107.31.191': 87263628743687440000,
+  '::ffff:25.88.161.91': 0,
+  '::ffff:127.0.0.1': 0
+}
+[2021-08-03T15:52:20.965] [DEBUG] logDebug.js - BEFORE::0
+[2021-08-03T15:52:20.966] [DEBUG] logDebug.js - AFTER::0.1
+[2021-08-03T15:52:20.968] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1

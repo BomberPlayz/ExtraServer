@@ -1,0 +1,653 @@
+[2021-07-18T11:42:05.629] [INFO] default - |-----------------|
+[2021-07-18T11:42:05.632] [INFO] default - |ExtraServer START|
+[2021-07-18T11:42:05.634] [INFO] default - |-----------------|
+[2021-07-18T11:42:05.634] [INFO] default - starting newrelic...
+[2021-07-18T11:42:08.481] [INFO] default - creating server...
+[2021-07-18T11:42:08.482] [INFO] default - Loading plugins...
+[2021-07-18T11:42:08.516] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-07-18T11:42:09.611] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-07-18T11:42:09.613] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-07-18T11:42:09.633] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-07-18T11:42:09.634] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-07-18T11:42:09.657] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-07-18T11:42:09.663] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-07-18T11:42:09.665] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-07-18T11:42:09.665] [INFO] default - Loaded plugin logDebug.js
+[2021-07-18T11:42:09.680] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-07-18T11:42:09.698] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-07-18T11:42:09.699] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-07-18T11:42:09.700] [INFO] default - Starting to listen...
+[2021-07-18T11:42:09.702] [INFO] default - Server started!
+[2021-07-18T11:42:09.703] [INFO] default - tictuc! elindult!
+[2021-07-18T11:42:09.834] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /
+[2021-07-18T11:42:09.835] [DEBUG] logDebug.js - {}
+[2021-07-18T11:42:09.835] [DEBUG] logDebug.js - ::ffff:127.0.0.1 :: GEN RLIMIT
+[2021-07-18T11:42:09.836] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0
+[2021-07-18T11:42:09.867] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /index.html
+[2021-07-18T11:42:09.868] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-18T11:42:09.868] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:09.868] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:09.868] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:10.063] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-18T11:42:10.064] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-18T11:42:10.064] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:10.064] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:10.065] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:10.073] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-18T11:42:18.937] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /
+[2021-07-18T11:42:18.938] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0 }
+[2021-07-18T11:42:18.938] [DEBUG] logDebug.js - ::ffff:100.65.43.234 :: GEN RLIMIT
+[2021-07-18T11:42:18.938] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0
+[2021-07-18T11:42:19.029] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /index.html
+[2021-07-18T11:42:19.030] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:19.030] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:19.032] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:19.032] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:19.669] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /favicon.ico
+[2021-07-18T11:42:19.670] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:19.670] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:19.670] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:19.671] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:19.679] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-18T11:42:22.820] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /virtual_desk/
+[2021-07-18T11:42:22.820] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:22.821] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:22.821] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:22.821] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:22.951] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /virtual_desk/index.jsx
+[2021-07-18T11:42:22.952] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:22.952] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:22.953] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:22.954] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:23.047] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:23.051] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:23.057] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-07-18T11:42:23.062] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-07-18T11:42:23.066] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:23.068] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-07-18T11:42:23.071] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:23.074] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-07-18T11:42:23.079] [DEBUG] logDebug.js - non
+[2021-07-18T11:42:23.079] [DEBUG] logDebug.js - reteno
+[2021-07-18T11:42:23.079] [DEBUG] logDebug.js - [ false, 'err_token_invalid' ]
+[2021-07-18T11:42:23.080] [DEBUG] logDebug.js - [Object: null prototype] {}
+[2021-07-18T11:42:23.082] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:23.084] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:23.085] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-07-18T11:42:23.087] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-07-18T11:42:23.090] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:23.093] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-07-18T11:42:23.095] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:23.096] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-07-18T11:42:23.097] [DEBUG] logDebug.js - non
+[2021-07-18T11:42:23.097] [DEBUG] logDebug.js - reteno
+[2021-07-18T11:42:23.195] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /virtual_desk/login.jsx?error=Nincs%20belepve%20vagy%20hibas%20a%20token!
+[2021-07-18T11:42:23.195] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:23.195] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:23.196] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:23.196] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:25.276] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /virtual_desk/oobe/quiz.jsx
+[2021-07-18T11:42:25.277] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:25.278] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:25.278] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:25.278] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:25.316] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:25.317] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:25.318] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-07-18T11:42:25.319] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-07-18T11:42:25.321] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:25.323] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-07-18T11:42:25.325] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:25.326] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-07-18T11:42:25.327] [DEBUG] logDebug.js - non
+[2021-07-18T11:42:25.328] [DEBUG] logDebug.js - reteno
+[2021-07-18T11:42:26.994] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /virtual_desk/oobe/oobe.jsx
+[2021-07-18T11:42:26.995] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:26.995] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:26.996] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:26.996] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:27.020] [DEBUG] logDebug.js - {
+  name: 'admin',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'open',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: '02c6af96316162beb0ded80b7e35e0cd',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:27.023] [DEBUG] logDebug.js - {
+  name: 'asd',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:27.034] [DEBUG] logDebug.js - {
+  name: 'Bence',
+  logins: [],
+  state: 'open',
+  password: 'd8b1c869ccd2a2e8946479985657cd24',
+  token: '1d102de542c33be925bfcb69bf70f551'
+}
+[2021-07-18T11:42:27.034] [DEBUG] logDebug.js - {
+  name: 'BomberPlayz',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b75721e0bdf2701c181276c2d88cec07'
+}
+[2021-07-18T11:42:27.035] [DEBUG] logDebug.js - {
+  name: 'kasneverjeje',
+  logins: [],
+  state: 'open',
+  password: 'a8f5f167f44f4964e6c998dee827110c',
+  token: 'b0bd72b216d76dad97c796b3f7397a65'
+}
+[2021-07-18T11:42:27.036] [DEBUG] logDebug.js - {
+  name: 'tuc',
+  logins: [],
+  state: 'open',
+  password: '85b298b2989817dd30458e2bbdd19823',
+  token: 'a4a3e5ee840df4ba63c9518fb19349bd'
+}
+[2021-07-18T11:42:27.037] [DEBUG] logDebug.js - {
+  name: 'ZARVEN30',
+  logins: [ { place: 'Budapest', ip: '0.0.0.0' } ],
+  state: 'CTF',
+  password: '21232f297a57a5a743894a0e4a801fc3',
+  token: 'zth75',
+  'Error: ': 'Error:'
+}
+[2021-07-18T11:42:27.039] [DEBUG] logDebug.js - {
+  NoAccess: [ '*' ],
+  token: 'hkjgdsfghjweafjqwrfgbjfghjghjsaghjdsafvghjsfdaghdfsghfksgsgsfghkjdghjfdsghjfdskgdvgdfgsckgdsfvgkjtsvgdhkjfvsgkhjsvfdghjkdsfvhgksdvhkgfgsdhkjvsvgdhkjfsvghkjsfvgfghsfdvghkjfvvdsfdsv'
+}
+[2021-07-18T11:42:27.040] [DEBUG] logDebug.js - non
+[2021-07-18T11:42:27.041] [DEBUG] logDebug.js - reteno
+[2021-07-18T11:42:43.392] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /CTF/elso.jsx
+[2021-07-18T11:42:43.393] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:43.394] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:43.395] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:43.395] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:43.403] [WARN] defaultRequestHandler.js - Requested file not found: /CTF/elso.jsx
+[2021-07-18T11:42:48.546] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /token_login/
+[2021-07-18T11:42:48.547] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:48.547] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:48.548] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:48.548] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:48.599] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /token_login/index.jsx
+[2021-07-18T11:42:48.600] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:42:48.600] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:42:48.601] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:42:48.602] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:42:50.530] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /game/
+[2021-07-18T11:42:50.530] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:50.531] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:50.532] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:50.533] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:51.025] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/index.jsx?token=010281556aa628c988549ae77f5050e9
+[2021-07-18T11:42:51.032] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:51.033] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:51.033] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:51.033] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:51.103] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/ansi_up.js
+[2021-07-18T11:42:51.115] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:51.116] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:51.116] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:51.116] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:52.245] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-18T11:42:52.246] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:52.248] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:52.248] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:52.250] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:52.258] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-18T11:42:53.226] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/
+[2021-07-18T11:42:53.227] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:53.227] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:53.228] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:53.228] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:42:53.269] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/index.jsx
+[2021-07-18T11:42:53.269] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:42:53.270] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:42:53.270] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:42:53.270] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:42:54.972] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/login.html
+[2021-07-18T11:42:54.973] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:42:54.973] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:42:54.974] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:42:54.976] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:01.214] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/index.jsx?user=asd
+[2021-07-18T11:43:01.214] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:01.215] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:01.215] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:01.216] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:03.022] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/login.html
+[2021-07-18T11:43:03.023] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:03.023] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:03.023] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:03.024] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:04.095] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/reg.html
+[2021-07-18T11:43:04.095] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:04.096] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:04.096] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:04.097] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:06.403] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/login.html
+[2021-07-18T11:43:06.416] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:06.417] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:06.418] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:06.418] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:08.350] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/reg.html
+[2021-07-18T11:43:08.351] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:08.352] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:08.352] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:08.352] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:08.818] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/viewserver.jsx?id=4erlipf2bgkqax7wz1&token=010281556aa628c988549ae77f5050e9
+[2021-07-18T11:43:08.819] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:08.820] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:08.820] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:08.820] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:08.917] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/ansi_up.js
+[2021-07-18T11:43:08.921] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:08.921] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:08.922] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:08.922] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:12.016] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/rig.jsx?usr=asd&pass=asd
+[2021-07-18T11:43:12.017] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:12.017] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:12.017] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:12.018] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:12.070] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/index.jsx?token=010281556aa628c988549ae77f5050e9
+[2021-07-18T11:43:12.072] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:12.072] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:12.074] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:12.074] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:12.114] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/beta/ansi_up.js
+[2021-07-18T11:43:12.114] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0.1, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:12.115] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:43:12.116] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:43:12.116] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.2
+[2021-07-18T11:43:12.428] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /favicon.ico
+[2021-07-18T11:43:12.431] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:12.431] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:12.432] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:12.432] [DEBUG] logDebug.js - ::ffff:127.0.0.1 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:12.443] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-18T11:43:14.596] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/login.html
+[2021-07-18T11:43:14.597] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:14.597] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:14.597] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:14.598] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:17.395] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/login.jsx?usr=asd&pass=asd
+[2021-07-18T11:43:17.396] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:17.396] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:17.397] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:17.397] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:17.736] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/index.jsx?usr=asd
+[2021-07-18T11:43:17.736] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:17.737] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:17.738] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:17.738] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:17.752] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.754] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.758] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.762] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.765] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.768] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.770] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.773] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.794] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.827] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.851] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.853] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.867] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.869] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.871] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.875] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.879] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.882] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.884] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.886] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.888] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.892] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:17.905] [DEBUG] logDebug.js - jap???
+[2021-07-18T11:43:18.088] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/2020-09-05%2021-22-54.png
+[2021-07-18T11:43:18.095] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:18.095] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:18.096] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:18.096] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:18.104] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/2020-09-05%2021-22-54.png
+[2021-07-18T11:43:18.117] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/buggos%20holmi.png
+[2021-07-18T11:43:18.118] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:18.118] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:18.118] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:18.119] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:18.126] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/buggos%20holmi.png
+[2021-07-18T11:43:18.129] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/buggos%20mc.png
+[2021-07-18T11:43:18.129] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:18.129] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:43:18.129] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:43:18.130] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:43:18.137] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/buggos%20mc.png
+[2021-07-18T11:43:18.138] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/2020-09-24%2016-14-23.png
+[2021-07-18T11:43:18.138] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.2 }
+[2021-07-18T11:43:18.139] [DEBUG] logDebug.js - BEFORE::0.2
+[2021-07-18T11:43:18.139] [DEBUG] logDebug.js - AFTER::0.30000000000000004
+[2021-07-18T11:43:18.140] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.30000000000000004
+[2021-07-18T11:43:18.149] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/2020-09-24%2016-14-23.png
+[2021-07-18T11:43:18.150] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/Discord%20Bot%20Tutorial%202.png
+[2021-07-18T11:43:18.150] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.30000000000000004 }
+[2021-07-18T11:43:18.150] [DEBUG] logDebug.js - BEFORE::0.30000000000000004
+[2021-07-18T11:43:18.151] [DEBUG] logDebug.js - AFTER::0.4
+[2021-07-18T11:43:18.151] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.4
+[2021-07-18T11:43:18.162] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/Discord%20Bot%20Tutorial%202.png
+[2021-07-18T11:43:18.168] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/felhos.png
+[2021-07-18T11:43:18.169] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.4 }
+[2021-07-18T11:43:18.169] [DEBUG] logDebug.js - BEFORE::0.4
+[2021-07-18T11:43:18.169] [DEBUG] logDebug.js - AFTER::0.5
+[2021-07-18T11:43:18.170] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.5
+[2021-07-18T11:43:18.206] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/hoszzu.png
+[2021-07-18T11:43:18.229] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.5 }
+[2021-07-18T11:43:18.229] [DEBUG] logDebug.js - BEFORE::0.5
+[2021-07-18T11:43:18.230] [DEBUG] logDebug.js - AFTER::0.6
+[2021-07-18T11:43:18.230] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.6
+[2021-07-18T11:43:18.238] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/gep_bugok.png
+[2021-07-18T11:43:18.238] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:18.238] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:18.239] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:18.241] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:18.250] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/Discord%20Bot%20Tutorial.png
+[2021-07-18T11:43:18.251] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:18.251] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:43:18.251] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:43:18.251] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:43:18.261] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/Discord%20Bot%20Tutorial.png
+[2021-07-18T11:43:18.262] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png
+[2021-07-18T11:43:18.263] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.2 }
+[2021-07-18T11:43:18.263] [DEBUG] logDebug.js - BEFORE::0.2
+[2021-07-18T11:43:18.263] [DEBUG] logDebug.js - AFTER::0.30000000000000004
+[2021-07-18T11:43:18.263] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.30000000000000004
+[2021-07-18T11:43:18.270] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png
+[2021-07-18T11:43:18.271] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png
+[2021-07-18T11:43:18.271] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.30000000000000004 }
+[2021-07-18T11:43:18.305] [DEBUG] logDebug.js - BEFORE::0.30000000000000004
+[2021-07-18T11:43:18.314] [DEBUG] logDebug.js - AFTER::0.4
+[2021-07-18T11:43:18.317] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.4
+[2021-07-18T11:43:18.332] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png
+[2021-07-18T11:43:18.533] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/nezd.png
+[2021-07-18T11:43:18.535] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:18.536] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:18.536] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:18.537] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:18.550] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/nezdmeg.png
+[2021-07-18T11:43:18.551] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:18.553] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:43:18.555] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:43:18.555] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:43:18.569] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/gep_bugok.mp4.png
+[2021-07-18T11:43:18.570] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.2 }
+[2021-07-18T11:43:18.570] [DEBUG] logDebug.js - BEFORE::0.2
+[2021-07-18T11:43:18.570] [DEBUG] logDebug.js - AFTER::0.30000000000000004
+[2021-07-18T11:43:18.571] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.30000000000000004
+[2021-07-18T11:43:18.585] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/gep_bugok.mp4.png
+[2021-07-18T11:43:18.739] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/nyan.png
+[2021-07-18T11:43:18.745] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:18.745] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:18.746] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:18.746] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:18.888] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png
+[2021-07-18T11:43:18.895] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:18.895] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:18.896] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:18.896] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:18.903] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png
+[2021-07-18T11:43:19.086] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/szupikek%20eletrajza.png
+[2021-07-18T11:43:19.087] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:19.087] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:19.088] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:19.088] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:19.099] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/szupikek%20eletrajza.png
+[2021-07-18T11:43:19.170] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/sample-mp4-file.png
+[2021-07-18T11:43:19.171] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:19.172] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:19.172] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:19.173] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:19.420] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png
+[2021-07-18T11:43:19.428] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:19.428] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:19.429] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:19.429] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:19.436] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png
+[2021-07-18T11:43:19.808] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png
+[2021-07-18T11:43:19.845] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:19.846] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:19.846] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:19.846] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:19.853] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png
+[2021-07-18T11:43:19.965] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/szupincs.png
+[2021-07-18T11:43:19.966] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:19.967] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:19.967] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:19.967] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:20.069] [DEBUG] logDebug.js - saved: D:\OneDrive\Desktop\progs\ExtraServer\public\tucube/thumbs/VID_20170419_110242_0033.png
+[2021-07-18T11:43:20.167] [DEBUG] logDebug.js - saved: D:\OneDrive\Desktop\progs\ExtraServer\public\tucube/thumbs/Minecraft1.png
+[2021-07-18T11:43:20.201] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/ticci%20tucci%20unity.png
+[2021-07-18T11:43:20.201] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:20.201] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:20.202] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:20.202] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:20.209] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/ticci%20tucci%20unity.png
+[2021-07-18T11:43:20.212] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/torkos.png
+[2021-07-18T11:43:20.212] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:20.212] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:43:20.212] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:43:20.213] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:43:20.266] [DEBUG] logDebug.js - saved: D:\OneDrive\Desktop\progs\ExtraServer\public\tucube/thumbs/gep_bugok.png
+[2021-07-18T11:43:20.418] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/VID_20170419_110242_0033.png
+[2021-07-18T11:43:20.419] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:20.419] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:20.419] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:20.420] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:20.636] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/VID_20170419_110242_0033.MP4.png
+[2021-07-18T11:43:20.636] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:20.636] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:20.637] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:20.637] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:20.645] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/VID_20170419_110242_0033.MP4.png
+[2021-07-18T11:43:20.646] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png
+[2021-07-18T11:43:20.646] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.1 }
+[2021-07-18T11:43:20.647] [DEBUG] logDebug.js - BEFORE::0.1
+[2021-07-18T11:43:20.647] [DEBUG] logDebug.js - AFTER::0.2
+[2021-07-18T11:43:20.647] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.2
+[2021-07-18T11:43:20.655] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png
+[2021-07-18T11:43:27.017] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/play.jsx?id=40&usr=asd
+[2021-07-18T11:43:27.017] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:27.018] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:27.018] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:27.018] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:27.748] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/vidi/adi%20es%20ricsi%20veszekszik%20xd.mp4
+[2021-07-18T11:43:27.749] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:27.749] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:27.749] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:27.750] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:27.757] [WARN] defaultRequestHandler.js - Requested file not found: /tucube/vidi/adi%20es%20ricsi%20veszekszik%20xd.mp4
+[2021-07-18T11:43:35.246] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/play.jsx?id=10&usr=asd
+[2021-07-18T11:43:35.247] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:35.248] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:35.248] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:35.249] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:35.435] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/vidi/nezd.mp4
+[2021-07-18T11:43:35.451] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:35.452] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:35.453] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:35.454] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:35.464] [INFO] defaultRequestHandler.js - range>>>>>>>>>>>>>>>>>>>>>>>>>>>>> bytes=0-
+[2021-07-18T11:43:35.465] [INFO] defaultRequestHandler.js - RANGE: 0 - 18825987 = 18825988
+[2021-07-18T11:43:35.556] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/vidi/nezd.mp4
+[2021-07-18T11:43:35.557] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 1.1 }
+[2021-07-18T11:43:35.557] [DEBUG] logDebug.js - BEFORE::1.1
+[2021-07-18T11:43:35.557] [DEBUG] logDebug.js - AFTER::1.2000000000000002
+[2021-07-18T11:43:35.558] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 1.2000000000000002
+[2021-07-18T11:43:35.566] [INFO] defaultRequestHandler.js - range>>>>>>>>>>>>>>>>>>>>>>>>>>>>> bytes=17760256-
+[2021-07-18T11:43:35.567] [INFO] defaultRequestHandler.js - RANGE: 17760256 - 18825987 = 1065732
+[2021-07-18T11:43:35.835] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/vidi/nezd.mp4
+[2021-07-18T11:43:35.835] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0.20000000000000018 }
+[2021-07-18T11:43:35.836] [DEBUG] logDebug.js - BEFORE::0.20000000000000018
+[2021-07-18T11:43:35.836] [DEBUG] logDebug.js - AFTER::0.30000000000000016
+[2021-07-18T11:43:35.837] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.30000000000000016
+[2021-07-18T11:43:35.844] [INFO] defaultRequestHandler.js - range>>>>>>>>>>>>>>>>>>>>>>>>>>>>> bytes=32768-
+[2021-07-18T11:43:35.845] [INFO] defaultRequestHandler.js - RANGE: 32768 - 18825987 = 18793220
+[2021-07-18T11:43:38.677] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /favicon.ico
+[2021-07-18T11:43:38.677] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:38.678] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:38.679] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:38.679] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:38.687] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-07-18T11:43:53.428] [INFO] defaultRequestHandler.js - ::ffff:100.65.43.234 requested to /tucube/vidi/nezd.mp4
+[2021-07-18T11:43:53.429] [DEBUG] logDebug.js - { '::ffff:127.0.0.1': 0, '::ffff:100.65.43.234': 0 }
+[2021-07-18T11:43:53.430] [DEBUG] logDebug.js - BEFORE::0
+[2021-07-18T11:43:53.430] [DEBUG] logDebug.js - AFTER::0.1
+[2021-07-18T11:43:53.430] [DEBUG] logDebug.js - ::ffff:100.65.43.234 RATELIMIT COUNT: 0.1
+[2021-07-18T11:43:53.438] [INFO] defaultRequestHandler.js - range>>>>>>>>>>>>>>>>>>>>>>>>>>>>> bytes=17793024-
+[2021-07-18T11:43:53.438] [INFO] defaultRequestHandler.js - RANGE: 17793024 - 18825987 = 1032964

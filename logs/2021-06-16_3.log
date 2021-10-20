@@ -1,0 +1,23 @@
+[2021-06-16T16:17:38.046] [INFO] default - |-----------------|
+[2021-06-16T16:17:38.049] [INFO] default - |ExtraServer START|
+[2021-06-16T16:17:38.049] [INFO] default - |-----------------|
+[2021-06-16T16:17:38.050] [INFO] default - creating server...
+[2021-06-16T16:17:38.051] [INFO] default - Loading plugins...
+[2021-06-16T16:17:38.059] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-16T16:17:38.221] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-16T16:17:38.223] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-06-16T16:17:38.226] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-16T16:17:38.227] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-16T16:17:38.229] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-16T16:17:38.230] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-06-16T16:17:38.232] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-16T16:17:38.232] [INFO] default - Loaded plugin logDebug.js
+[2021-06-16T16:17:38.233] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-16T16:17:38.234] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-16T16:17:38.235] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-16T16:17:38.235] [INFO] default - Starting to listen...
+[2021-06-16T16:17:38.240] [INFO] default - Listening on port 1234!
+[2021-06-16T16:17:38.240] [INFO] default - Server started!
+[2021-06-16T16:17:38.241] [INFO] default - tictuc! elindult!

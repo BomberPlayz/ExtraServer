@@ -1,0 +1,232 @@
+[2021-06-05T00:15:58.694] [INFO] default - |-----------------|
+[2021-06-05T00:15:58.706] [INFO] default - |ExtraServer START|
+[2021-06-05T00:15:58.711] [INFO] default - |-----------------|
+[2021-06-05T00:15:58.713] [INFO] default - creating server...
+[2021-06-05T00:15:58.714] [INFO] default - Loading plugins...
+[2021-06-05T00:15:58.717] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-05T00:15:58.946] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-05T00:15:58.950] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-05T00:15:58.951] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-05T00:15:58.955] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-05T00:15:58.963] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-05T00:15:58.963] [INFO] default - Loaded plugin logDebug.js
+[2021-06-05T00:15:58.965] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-05T00:15:58.967] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-05T00:15:58.967] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-05T00:15:58.968] [INFO] default - Starting to listen...
+[2021-06-05T00:15:58.970] [INFO] default - Server started!
+[2021-06-05T00:15:58.971] [INFO] default - tictuc! elindult!
+[2021-06-05T00:16:39.558] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-05T00:16:39.588] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:16:54.433] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=destroy
+[2021-06-05T00:16:54.448] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:16:54.450] [DEBUG] logDebug.js - day
+[2021-06-05T00:16:54.450] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:16:54.450] [DEBUG] logDebug.js - also
+[2021-06-05T00:16:54.451] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:16:54.451] [DEBUG] logDebug.js - night
+[2021-06-05T00:16:54.451] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:16:54.451] [DEBUG] logDebug.js - asd
+[2021-06-05T00:16:54.452] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:16:54.452] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:16:54.452] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:16:54.453] [DEBUG] logDebug.js - its equal: destroy
+[2021-06-05T00:16:54.453] [DEBUG] logDebug.js - {
+  name: 'destroy',
+  desc: 'Selfboom!!',
+  run: 'summon PrimedTnt -88 6 -66'
+}
+[2021-06-05T00:17:21.248] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T00:17:21.286] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:17:21.322] [DEBUG] logDebug.js - day
+[2021-06-05T00:17:21.365] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:21.395] [DEBUG] logDebug.js - also
+[2021-06-05T00:17:21.435] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:21.458] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:21.465] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:21.472] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T00:17:21.479] [DEBUG] logDebug.js - asd
+[2021-06-05T00:17:21.484] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:21.499] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:17:21.503] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:21.514] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T00:17:34.235] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T00:17:34.250] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:17:34.251] [DEBUG] logDebug.js - day
+[2021-06-05T00:17:34.251] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:34.251] [DEBUG] logDebug.js - also
+[2021-06-05T00:17:34.252] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:34.252] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:34.253] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:34.253] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T00:17:34.253] [DEBUG] logDebug.js - asd
+[2021-06-05T00:17:34.253] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:34.254] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:17:34.254] [DEBUG] logDebug.js - night
+[2021-06-05T00:17:34.254] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T00:18:40.640] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-05T00:18:40.653] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:18:40.654] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:40.654] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:40.655] [DEBUG] logDebug.js - also
+[2021-06-05T00:18:40.655] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:40.655] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:40.656] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:40.656] [DEBUG] logDebug.js - its equal: night
+[2021-06-05T00:18:40.656] [DEBUG] logDebug.js - asd
+[2021-06-05T00:18:40.656] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:40.657] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:18:40.657] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:40.657] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-05T00:18:43.828] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-05T00:18:43.840] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:18:43.841] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:43.842] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:43.842] [DEBUG] logDebug.js - its equal: day
+[2021-06-05T00:18:43.843] [DEBUG] logDebug.js - also
+[2021-06-05T00:18:43.843] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:43.843] [DEBUG] logDebug.js - night
+[2021-06-05T00:18:43.843] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:43.844] [DEBUG] logDebug.js - asd
+[2021-06-05T00:18:43.844] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:43.844] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:18:43.845] [DEBUG] logDebug.js - day
+[2021-06-05T00:18:43.845] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-05T00:19:43.535] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-05T00:19:43.547] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  }
+]
+[2021-06-05T00:19:56.141] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=destroy
+[2021-06-05T00:19:56.153] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  { name: 'torun' }
+]
+[2021-06-05T00:19:56.154] [DEBUG] logDebug.js - day
+[2021-06-05T00:19:56.154] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.154] [DEBUG] logDebug.js - also
+[2021-06-05T00:19:56.155] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.155] [DEBUG] logDebug.js - night
+[2021-06-05T00:19:56.155] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.155] [DEBUG] logDebug.js - asd
+[2021-06-05T00:19:56.156] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.156] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.156] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.156] [DEBUG] logDebug.js - its equal: destroy
+[2021-06-05T00:19:56.157] [DEBUG] logDebug.js - torun
+[2021-06-05T00:19:56.157] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:19:56.157] [DEBUG] logDebug.js - {
+  name: 'destroy',
+  desc: 'Selfboom!!',
+  run: 'summon PrimedTnt -88 6 -66'
+}
+[2021-06-05T00:21:17.499] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=torun
+[2021-06-05T00:21:17.512] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  }
+]
+[2021-06-05T00:21:17.513] [DEBUG] logDebug.js - day
+[2021-06-05T00:21:17.513] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.513] [DEBUG] logDebug.js - also
+[2021-06-05T00:21:17.514] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.514] [DEBUG] logDebug.js - night
+[2021-06-05T00:21:17.514] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.515] [DEBUG] logDebug.js - asd
+[2021-06-05T00:21:17.515] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.515] [DEBUG] logDebug.js - destroy
+[2021-06-05T00:21:17.515] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.516] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.517] [DEBUG] logDebug.js - torun
+[2021-06-05T00:21:17.518] [DEBUG] logDebug.js - its equal: torun
+[2021-06-05T00:21:17.518] [DEBUG] logDebug.js - {
+  name: 'torun',
+  desc: 'No need restart',
+  run: 'say Welcome from the other side'
+}

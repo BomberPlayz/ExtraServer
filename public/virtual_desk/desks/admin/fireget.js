@@ -1,0 +1,1 @@
+firewall("takarodj","getfi",function() { getJSON("CRASHED") })

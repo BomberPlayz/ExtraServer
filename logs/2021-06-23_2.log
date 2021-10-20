@@ -1,0 +1,41 @@
+[2021-06-23T16:10:15.228] [INFO] default - |-----------------|
+[2021-06-23T16:10:15.231] [INFO] default - |ExtraServer START|
+[2021-06-23T16:10:15.231] [INFO] default - |-----------------|
+[2021-06-23T16:10:15.232] [INFO] default - creating server...
+[2021-06-23T16:10:15.232] [INFO] default - Loading plugins...
+[2021-06-23T16:10:15.234] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-23T16:10:15.342] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-23T16:10:15.344] [ERROR] default - Cloud not load plugin data.json: TypeError: require(...).onStart is not a function
+[2021-06-23T16:10:15.346] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-23T16:10:15.347] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-23T16:10:15.349] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-23T16:10:15.350] [ERROR] default - Cloud not load plugin ereeeeeeeeeeeeeeeee: Error: Cannot find module '././server_plugins/ereeeeeeeeeeeeeeeee'
+Require stack:
+- D:\OneDrive\Desktop\progs\ExtraServer\server.js
+[2021-06-23T16:10:15.352] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-23T16:10:15.352] [INFO] default - Loaded plugin logDebug.js
+[2021-06-23T16:10:15.354] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-23T16:10:15.356] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-23T16:10:15.357] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-23T16:10:15.358] [INFO] default - Starting to listen...
+[2021-06-23T16:10:15.365] [INFO] default - Server started!
+[2021-06-23T16:10:15.370] [INFO] default - tictuc! elindult!
+[2021-06-23T16:10:16.658] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/beta/index.jsx
+[2021-06-23T16:10:16.666] [DEBUG] logDebug.js - {}
+[2021-06-23T16:10:16.667] [DEBUG] logDebug.js - ::1 :: GEN RLIMIT
+[2021-06-23T16:10:16.667] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0
+[2021-06-23T16:10:16.818] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/beta/ansi_up.js
+[2021-06-23T16:10:16.820] [DEBUG] logDebug.js - { '::1': 0 }
+[2021-06-23T16:10:16.838] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-23T16:10:16.839] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-23T16:10:16.862] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-23T16:11:15.118] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/beta/index.jsx
+[2021-06-23T16:11:15.119] [DEBUG] logDebug.js - { '::1': 0 }
+[2021-06-23T16:11:15.119] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-23T16:11:15.119] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-23T16:11:15.120] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1
+[2021-06-23T16:11:15.206] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/beta/ansi_up.js
+[2021-06-23T16:11:15.222] [DEBUG] logDebug.js - { '::1': 0 }
+[2021-06-23T16:11:15.223] [DEBUG] logDebug.js - BEFORE::0
+[2021-06-23T16:11:15.223] [DEBUG] logDebug.js - AFTER::0.1
+[2021-06-23T16:11:15.215] [DEBUG] logDebug.js - ::1 RATELIMIT COUNT: 0.1

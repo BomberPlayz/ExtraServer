@@ -1,0 +1,8 @@
+[{"name":"day","run":"time set day","desc":"Sets the time to day"},{"name":"also","run":"say The whole thing is dynamic"},{"name":"night","desc":"Sets time to night.","run":"time set night"},{"name":"asd","desc":"asd","run":"say asd"},{
+  "name": "destroy",
+  "desc": "Selfboom!!",
+  "run": "summon PrimedTnt -88 6 -66"
+
+},{"name": "torun","desc": "No need restart","run": "say Welcome from the other side"},{"name": "ALALA","desc": "ALLALA","run": "say lalalalala"},
+  {"name": "weather_clear","desc": "Clear the weather","run": "weather clear"},{"name": "weather_rain","desc": "Make it raining!","run": "weather rain"},
+  {"name": "tpbagi","desc": "Make Bagi go away from you","run": "tp Bagi_Adam ~50 ~ ~50"}]

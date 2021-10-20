@@ -1,0 +1,102 @@
+[2021-05-29T10:27:17.788] [INFO] default - |-----------------|
+[2021-05-29T10:27:17.790] [INFO] default - |ExtraServer START|
+[2021-05-29T10:27:17.791] [INFO] default - |-----------------|
+[2021-05-29T10:27:17.791] [INFO] default - creating server...
+[2021-05-29T10:27:17.792] [INFO] default - Loading plugins...
+[2021-05-29T10:27:17.795] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-05-29T10:27:17.929] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-05-29T10:27:17.931] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-05-29T10:27:17.931] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-05-29T10:27:17.933] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-05-29T10:27:17.934] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-05-29T10:27:17.935] [INFO] default - Loaded plugin logDebug.js
+[2021-05-29T10:27:17.936] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-05-29T10:27:17.938] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-05-29T10:27:17.938] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-05-29T10:27:17.938] [INFO] default - Starting to listen...
+[2021-05-29T10:27:17.940] [INFO] default - Server started!
+[2021-05-29T10:27:17.942] [INFO] default - tictuc! elindult!
+[2021-05-29T10:27:18.000] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:18.064] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:18.139] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:18.189] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:18.760] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:18.764] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:18.781] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:18.812] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:18.849] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:19.449] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:19.452] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:19.465] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:19.491] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:19.518] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:20.069] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:20.071] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:20.084] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:20.112] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:20.139] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:20.655] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:20.656] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:20.670] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:20.695] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:20.719] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:21.274] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:21.278] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:21.290] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:21.315] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:21.346] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:21.890] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:21.894] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:21.906] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:21.930] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:21.953] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:22.477] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:22.482] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:22.499] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:22.538] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:22.574] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:23.121] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:23.123] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:23.136] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:23.161] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:23.186] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:23.795] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:23.799] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:23.813] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:23.838] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:23.864] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:24.428] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:24.433] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:24.447] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:24.471] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:24.497] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:25.100] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:25.106] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:25.125] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:25.161] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:25.186] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:25.697] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:25.699] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:25.714] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:25.741] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:25.769] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:26.266] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:26.269] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:26.282] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:26.311] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:26.336] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:27.007] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:27.014] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:27.038] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:27.068] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:27.105] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:27.679] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:27.682] [INFO] defaultRequestHandler.js - ::1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:27.694] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:27.732] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:27.761] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers
+[2021-05-29T10:27:28.306] [DEBUG] logDebug.js - USSEDDD: 595.1752080917358 MB
+[2021-05-29T10:27:28.309] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /cpanel/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getInfo&id=949761
+[2021-05-29T10:27:28.323] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=verify
+[2021-05-29T10:27:28.349] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&webtoken=ghjdfsagozdsafgihdsafbhdsafhljbgdsafgdsafhgdsafgdaf&mode=protData&key=cpanel_owned_servers
+[2021-05-29T10:27:28.376] [INFO] defaultRequestHandler.js - ::ffff:127.0.0.1 requested to /token_login/api.jsx?token=0a1f8074ff8778ff5cade28f319025e4&mode=getData&key=cpanel_owned_servers

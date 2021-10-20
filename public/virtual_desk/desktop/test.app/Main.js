@@ -1,0 +1,1 @@
+addWindow("Megy a test-app!!!","JÁÁÁÁÁÁÁÁÁJEEEEEEEEEJÁÁÁÁÁÁÁÁÁÁJÉÉÉÉÉÉÉÉJŐŐŐŐŐŐŐŐŐŐ")

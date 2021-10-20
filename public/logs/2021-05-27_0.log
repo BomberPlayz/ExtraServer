@@ -1,0 +1,18 @@
+[2021-05-27T16:38:44.128] [INFO] default - |-----------------|
+[2021-05-27T16:38:44.130] [INFO] default - |ExtraServer START|
+[2021-05-27T16:38:44.131] [INFO] default - |-----------------|
+[2021-05-27T16:38:44.132] [INFO] default - creating server...
+[2021-05-27T16:38:44.137] [INFO] default - Loading plugins...
+[2021-05-27T16:38:44.147] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-05-27T16:38:44.575] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-05-27T16:38:44.586] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-05-27T16:38:44.588] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-05-27T16:38:44.616] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-05-27T16:38:44.618] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-05-27T16:38:44.619] [INFO] default - Loaded plugin logDebug.js
+[2021-05-27T16:38:44.622] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-05-27T16:38:44.627] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-05-27T16:38:44.630] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-05-27T16:38:44.630] [INFO] default - Starting to listen...
+[2021-05-27T16:38:44.632] [INFO] default - Server started!
+[2021-05-27T16:38:44.634] [INFO] default - tictuc! elindult!

@@ -1,0 +1,76 @@
+{
+    {
+        name="Game",
+        code='
+
+game_page = 1
+game_money = 0
+
+gups = {
+{
+{
+"Click",
+20,
+1.25,
+1
+},
+{
+"Autoclick",
+150,
+1.35,
+0
+},
+{
+"Factory",
+4500,
+1.6,
+0
+}
+},
+{
+{
+"Money tree",
+15000,
+1.5,
+0
+}
+}
+}
+
+
+app("Game",function(w,h,x,y)
+
+if button(5,h/2-10,20,20,"Click",inx,iny,p) then
+game_money = game_money + gups[1][1][4]
+end
+
+local gpc = gups[game_page]
+if gpc then
+for i in pairs(gpc) do
+local nm = 5+14*(i-1)
+if button(w-65,nm,65,12,"+"..gpc[i][1].." $"..math.floor(gpc[i][2]),inx,iny,p) then
+if game_money >= gpc[i][2] then
+game_money = game_money-gpc[i][2]
+gups[game_page][i][2] = gpc[i][2]*gpc[i][3]
+gups[game_page][i][4] = gpc[i][4]+1
+end
+end
+end
+end
+game_money = game_money + gups[1][2][4]*0.02
+game_money = game_money + (gups[1][3][4]*gups[1][1][4])/20
+
+game_money = game_money + gups[2][1][4]*20
+
+if button(w-65,48,20,10,"<  ",inx,iny,p) then
+if game_page > 1 then game_page = game_page-1 end
+end
+
+if button(w-20,48,20,10,game_page.."  >",inx,iny,p) then
+if game_page < 9 then game_page = game_page+1 end
+end
+
+screen.drawTextBox(1,h-7,w-1,5,"Money: "..math.floor(game_money),0,0)
+end)'
+    }
+}

@@ -1,0 +1,324 @@
+body {
+	background: #e8f4f8;
+	font-family: 'Arial';
+}
+main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: .75rem;
+	margin-bottom: 1rem;
+}
+
+*:is(.mb,.mr,.mt,.ml) {
+	--valueB: .33rem;
+	--valueR: .33rem;
+	--valueT: .33rem;
+	--valueL: .33rem;
+}
+.mt.mt-big { --valueT:  1rem; }
+.mb.mb-big { --valueB:  1rem; }
+.ml.ml-big { --valueL:  1rem; }
+.mr.mr-big { --valueR:  1rem; }
+.mt.mt-med { --valueT: .5rem; }
+.mb.mb-med { --valueB: .5rem; }
+.ml.ml-med { --valueL: .5rem; }
+.mr.mr-med { --valueR: .5rem; }
+.mt.mt-sml { --valueT: .25rem; }
+.mb.mb-sml { --valueB: .25rem; }
+.ml.ml-sml { --valueL: .25rem; }
+.mr.mr-sml { --valueR: .25rem; }
+.mb { margin-bottom: var(--valueB); }
+.mr { margin-right: var(--valueR); }
+.mt { margin-top: var(--valueT); }
+.ml { margin-left: var(--valueL); }
+
+.note {
+	opacity: .5; color: gray; font-size: .75em;
+}
+.restart-needed::after {
+	display: inline-block;
+	height: 0em;
+	line-height: 0px;
+	content: '*';
+	color: gray;
+	font-weight: bold;
+	font-size: 1.33em;
+	display: inline-block;
+	transform: translateY(0.25em);
+	padding-left: .1ch;
+}
+
+.centered {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+.centered.only-vertially {
+	justify-content: unset;
+	text-align: unset;
+}
+.centered.only-horizontally {
+	align-items: unset;
+}
+.centered.no-text {
+	text-align: unset;
+}
+
+.stretched {
+	display: flex;
+	flex-direction: row;
+	justify-content: stretch;
+	align-items: center;
+}
+.stretched > * {
+	flex-grow: 1;
+	flex-basis: 0;
+}
+
+.square-h {
+	height: 1.46em;
+	padding: 0;
+	margin: 0;
+}
+.minw {
+	display: block;
+	display: inline-block;
+	width: auto;
+	min-width: 1.5rem;
+}
+.input-hex-fixed {
+	width: 17.5ch;
+	flex-shrink: 0;
+	flex-grow: 0;
+}
+.nopad {
+	padding: 0;
+	margin: 0;
+}
+.block {
+	display: block;
+}
+
+#right {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.options-box {
+	background: white;
+	border-radius: .5rem;
+	padding: .33rem;
+	border: 2px solid teal;
+}
+#debug {
+	margin-top: .75rem;
+}
+.defer {
+	display: none;
+}
+/*canvas {
+	border: 1px solid black;
+}*/
+#gb-canvas-wrapper {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	border: 2px solid #a0c5d1;
+	line-height : 0;
+}
+#gb-canvas {
+	width: 160px;
+	height: 144px;
+	padding: 0;
+	margin: 0;
+}
+#gb-canvas-wrapper.scaled > #gb-canvas {
+	--scale: 2;
+	width: calc( 160px * var(--scale));
+	height: calc( 144px * var(--scale));
+}
+#input-popup {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	text-align: center;
+	background: rgba(0,0,0,.5);
+	color: rgba(255,255,255,.9);
+	border: 2px solid rgba(255,255,255,.1);
+	cursor: default;
+	opacity: 1;
+	transition: all .5s ease;
+}
+#input-popup.hide {
+	opacity: 0;
+	transform: translateY(-200%);
+}
+#input-popup > img {
+	width: 24px;
+	height: 24px;
+	padding-right: .33ch;
+}
+#gb-canvas-wrapper:not(.scaled) #input-popup > img {
+	width: 18px;
+	height: 18px;
+	padding-right: .2ch;
+}
+#input-popup > span {
+	height: 100%;
+	font-size: 1rem;
+}
+#gb-canvas-wrapper:not(.scaled) #input-popup > span {
+	font-size: .75rem;
+}
+
+#noJS {
+	color: darkred;
+	font-size: 1.33rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background: lightpink;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+*.button {
+	display: inline-block;
+	background: lightblue;
+	border: 2px solid #a0c5d1; /*rgba(0,0,0,.1)*/
+	padding: .33rem .5rem;
+	border-radius: 99999rem;
+	transition: transform 50ms ease, opacity 100ms linear;
+}
+*.button.full {
+	display: block;
+	width: 100% !important;
+}
+.fill {
+	width: 100%;
+}
+*.button:not(.disabled):active {
+	transform: scale(0.9);
+}
+*.button.disabled {
+	opacity: .5;
+}
+#gb-wrapper{
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: .2rem;
+}
+.lpart {
+	color: darkblue;
+	font-weight: bold;
+}
+.lpart.red {
+	color: darkred;
+}
+.lpart.yellow {
+	color: darkorange;
+}
+#cdebug-wrapper {
+	position: relative;
+	width: 360px;
+	height: 330px;
+	overflow: hidden;
+	resize: both;
+	border: 1px solid rgba(0, 0, 0, .5);
+	transition: background 1s;
+}
+#cdebug-toggle:not(:checked)~#cdebug-wrapper > canvas {
+	display: none;
+}
+
+#cdebug-wrapper::before {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	content: '';
+	background: repeating-linear-gradient(
+	  45deg,
+	  rgba(255, 255, 255, 0.2),
+	  rgba(0, 0, 0, 0.2) 10px,
+	  rgba(0, 0, 0, 0.3) 10px,
+	  rgba(255, 255, 255, 0.3) 20px
+	), #aecdd8;
+	transition: opacity .33s ease;
+}
+#cdebug-wrapper::after {
+	content: 'Enable "Draw tilemap"';
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(0,0,0,.65);
+	color: white;
+	padding: .25rem .33rem;
+	border-radius: .25rem;
+	transition: opacity .44s ease;
+	border: 2px solid rgba(255, 255, 255, .33);
+}
+#cdebug-toggle:checked~#cdebug-wrapper::before,
+#cdebug-toggle:checked~#cdebug-wrapper::after {
+	opacity: 0;
+}
+
+#drop-wrapper {
+	position: relative;
+	transition: all .1s linear;
+	--drop-bg: teal;
+	--default-bg: white;
+	background: var(--default-bg);
+	display: block;
+	padding: 1rem;
+	border: 2px dotted teal;
+	border-radius: 1rem;
+}
+#drop-form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	transition: all .05s linear;
+	opacity: 1;
+}
+#drop-form > p {
+	margin: 0;
+	margin-bottom: .5rem;
+	padding: 0;
+}
+#drop-hint {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: none;
+	fill: white;
+}
+#drop-form {
+	white-space: nowrap;
+}
+#drop-form *.button {
+	font-size: .8rem;
+}
+#last-rom {
+	display: none;
+}

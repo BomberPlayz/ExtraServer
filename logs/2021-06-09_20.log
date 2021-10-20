@@ -1,0 +1,29 @@
+[2021-06-09T20:29:10.386] [INFO] default - |-----------------|
+[2021-06-09T20:29:10.388] [INFO] default - |ExtraServer START|
+[2021-06-09T20:29:10.389] [INFO] default - |-----------------|
+[2021-06-09T20:29:10.390] [INFO] default - creating server...
+[2021-06-09T20:29:10.390] [INFO] default - Loading plugins...
+[2021-06-09T20:29:10.395] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-09T20:29:10.573] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-09T20:29:10.578] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-09T20:29:10.578] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-09T20:29:10.579] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-09T20:29:10.584] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-09T20:29:10.585] [INFO] default - Loaded plugin logDebug.js
+[2021-06-09T20:29:10.590] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-09T20:29:10.595] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-09T20:29:10.595] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-09T20:29:10.596] [INFO] default - Starting to listen...
+[2021-06-09T20:29:10.599] [INFO] default - Server started!
+[2021-06-09T20:29:10.600] [INFO] default - tictuc! elindult!
+[2021-06-09T20:29:10.606] [FATAL] default - uncaughtException: Error: listen EADDRINUSE: address already in use :::1234
+    at Server.setupListenHandle [as _listen2] (node:net:1306:16)
+    at listenInCluster (node:net:1354:12)
+    at Server.listen (node:net:1441:7)
+    at extendedServer.start (D:\OneDrive\Desktop\progs\ExtraServer\server.js:100:19)
+    at Object.<anonymous> (D:\OneDrive\Desktop\progs\ExtraServer\server.js:119:6)
+    at Module._compile (node:internal/modules/cjs/loader:1109:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1138:10)
+    at Module.load (node:internal/modules/cjs/loader:989:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:829:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)

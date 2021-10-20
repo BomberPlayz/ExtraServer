@@ -1,0 +1,711 @@
+[2021-06-06T10:44:08.803] [INFO] default - |-----------------|
+[2021-06-06T10:44:08.813] [INFO] default - |ExtraServer START|
+[2021-06-06T10:44:08.816] [INFO] default - |-----------------|
+[2021-06-06T10:44:08.823] [INFO] default - creating server...
+[2021-06-06T10:44:08.824] [INFO] default - Loading plugins...
+[2021-06-06T10:44:08.828] [ERROR] default - Cloud not load plugin asdasd.json: TypeError: require(...).onStart is not a function
+[2021-06-06T10:44:09.182] [ERROR] default - Cloud not load plugin chat.js: TypeError [ERR_INVALID_ARG_TYPE]: The "emitter" argument must be an instance of EventEmitter. Received type string ('connection')
+[2021-06-06T10:44:09.185] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-06-06T10:44:09.186] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-06-06T10:44:09.188] [ERROR] default - Cloud not load plugin directoryList.js: TypeError: require(...).onStart is not a function
+[2021-06-06T10:44:09.191] [INFO] logDebug.js - logDebug plugin by BomberPlayz!
+[2021-06-06T10:44:09.191] [INFO] default - Loaded plugin logDebug.js
+[2021-06-06T10:44:09.193] [ERROR] default - Cloud not load plugin tuccc.json: SyntaxError: D:\OneDrive\Desktop\progs\ExtraServer\server_plugins\tuccc.json: Unexpected number in JSON at position 57948
+[2021-06-06T10:44:09.195] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-06-06T10:44:09.195] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-06-06T10:44:09.195] [INFO] default - Starting to listen...
+[2021-06-06T10:44:09.197] [INFO] default - Server started!
+[2021-06-06T10:44:09.198] [INFO] default - tictuc! elindult!
+[2021-06-06T10:44:31.677] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-06T10:44:32.015] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-06T10:44:36.685] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-06T10:44:36.697] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-06T10:44:36.697] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.698] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.698] [DEBUG] logDebug.js - its equal: day
+[2021-06-06T10:44:36.698] [DEBUG] logDebug.js - also
+[2021-06-06T10:44:36.699] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.700] [DEBUG] logDebug.js - night
+[2021-06-06T10:44:36.701] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.701] [DEBUG] logDebug.js - asd
+[2021-06-06T10:44:36.701] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.702] [DEBUG] logDebug.js - destroy
+[2021-06-06T10:44:36.702] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.702] [DEBUG] logDebug.js - torun
+[2021-06-06T10:44:36.703] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.705] [DEBUG] logDebug.js - ALALA
+[2021-06-06T10:44:36.706] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:36.706] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-06T10:44:48.785] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=weather
+[2021-06-06T10:44:48.796] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' }
+]
+[2021-06-06T10:44:48.797] [DEBUG] logDebug.js - day
+[2021-06-06T10:44:48.797] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.798] [DEBUG] logDebug.js - also
+[2021-06-06T10:44:48.798] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.798] [DEBUG] logDebug.js - night
+[2021-06-06T10:44:48.799] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.799] [DEBUG] logDebug.js - asd
+[2021-06-06T10:44:48.799] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.800] [DEBUG] logDebug.js - destroy
+[2021-06-06T10:44:48.800] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.800] [DEBUG] logDebug.js - torun
+[2021-06-06T10:44:48.800] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.801] [DEBUG] logDebug.js - ALALA
+[2021-06-06T10:44:48.801] [DEBUG] logDebug.js - weather
+[2021-06-06T10:44:48.801] [DEBUG] logDebug.js - notFound
+[2021-06-06T10:45:47.649] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=weather_clear
+[2021-06-06T10:45:47.660] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  }
+]
+[2021-06-06T10:45:47.661] [DEBUG] logDebug.js - day
+[2021-06-06T10:45:47.661] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.661] [DEBUG] logDebug.js - also
+[2021-06-06T10:45:47.661] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.662] [DEBUG] logDebug.js - night
+[2021-06-06T10:45:47.663] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.663] [DEBUG] logDebug.js - asd
+[2021-06-06T10:45:47.663] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.664] [DEBUG] logDebug.js - destroy
+[2021-06-06T10:45:47.664] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.664] [DEBUG] logDebug.js - torun
+[2021-06-06T10:45:47.664] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.665] [DEBUG] logDebug.js - ALALA
+[2021-06-06T10:45:47.665] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.665] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.665] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.666] [DEBUG] logDebug.js - its equal: weather_clear
+[2021-06-06T10:45:47.666] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T10:45:47.666] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T10:45:47.666] [DEBUG] logDebug.js - {
+  name: 'weather_clear',
+  desc: 'Clear the weather',
+  run: 'weather clear'
+}
+[2021-06-06T10:45:57.499] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-06T10:45:57.509] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  }
+]
+[2021-06-06T11:10:02.284] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=tpbagi
+[2021-06-06T11:10:02.296] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~ ~ ~150'
+  }
+]
+[2021-06-06T11:10:02.301] [DEBUG] logDebug.js - day
+[2021-06-06T11:10:02.303] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.313] [DEBUG] logDebug.js - also
+[2021-06-06T11:10:02.315] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.317] [DEBUG] logDebug.js - night
+[2021-06-06T11:10:02.317] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.318] [DEBUG] logDebug.js - asd
+[2021-06-06T11:10:02.322] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.324] [DEBUG] logDebug.js - destroy
+[2021-06-06T11:10:02.325] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.326] [DEBUG] logDebug.js - torun
+[2021-06-06T11:10:02.326] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.328] [DEBUG] logDebug.js - ALALA
+[2021-06-06T11:10:02.328] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.329] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T11:10:02.330] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.331] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T11:10:02.334] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.334] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.335] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:10:02.335] [DEBUG] logDebug.js - its equal: tpbagi
+[2021-06-06T11:10:02.338] [DEBUG] logDebug.js - {
+  name: 'tpbagi',
+  desc: 'Make Bagi go away from you',
+  run: 'tp Bagi_Adam ~ ~ ~150'
+}
+[2021-06-06T11:13:06.892] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=tpbagi
+[2021-06-06T11:13:06.903] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T11:13:06.905] [DEBUG] logDebug.js - day
+[2021-06-06T11:13:06.906] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.906] [DEBUG] logDebug.js - also
+[2021-06-06T11:13:06.906] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.907] [DEBUG] logDebug.js - night
+[2021-06-06T11:13:06.907] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.907] [DEBUG] logDebug.js - asd
+[2021-06-06T11:13:06.908] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.908] [DEBUG] logDebug.js - destroy
+[2021-06-06T11:13:06.908] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.908] [DEBUG] logDebug.js - torun
+[2021-06-06T11:13:06.909] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.909] [DEBUG] logDebug.js - ALALA
+[2021-06-06T11:13:06.909] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.909] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T11:13:06.910] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.910] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T11:13:06.910] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.911] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.912] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:13:06.913] [DEBUG] logDebug.js - its equal: tpbagi
+[2021-06-06T11:13:06.913] [DEBUG] logDebug.js - {
+  name: 'tpbagi',
+  desc: 'Make Bagi go away from you',
+  run: 'tp Bagi_Adam ~50 ~ ~50'
+}
+[2021-06-06T11:17:13.906] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=tpbagi
+[2021-06-06T11:17:13.918] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T11:17:13.919] [DEBUG] logDebug.js - day
+[2021-06-06T11:17:13.919] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.920] [DEBUG] logDebug.js - also
+[2021-06-06T11:17:13.920] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.920] [DEBUG] logDebug.js - night
+[2021-06-06T11:17:13.921] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.921] [DEBUG] logDebug.js - asd
+[2021-06-06T11:17:13.922] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.922] [DEBUG] logDebug.js - destroy
+[2021-06-06T11:17:13.923] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.923] [DEBUG] logDebug.js - torun
+[2021-06-06T11:17:13.926] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.926] [DEBUG] logDebug.js - ALALA
+[2021-06-06T11:17:13.926] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.927] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T11:17:13.927] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.928] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T11:17:13.928] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.928] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.929] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T11:17:13.929] [DEBUG] logDebug.js - its equal: tpbagi
+[2021-06-06T11:17:13.930] [DEBUG] logDebug.js - {
+  name: 'tpbagi',
+  desc: 'Make Bagi go away from you',
+  run: 'tp Bagi_Adam ~50 ~ ~50'
+}
+[2021-06-06T12:25:18.533] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=tpbagi
+[2021-06-06T12:25:18.547] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T12:25:18.548] [DEBUG] logDebug.js - day
+[2021-06-06T12:25:18.549] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.549] [DEBUG] logDebug.js - also
+[2021-06-06T12:25:18.550] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.550] [DEBUG] logDebug.js - night
+[2021-06-06T12:25:18.550] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.550] [DEBUG] logDebug.js - asd
+[2021-06-06T12:25:18.551] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.551] [DEBUG] logDebug.js - destroy
+[2021-06-06T12:25:18.551] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.552] [DEBUG] logDebug.js - torun
+[2021-06-06T12:25:18.552] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.553] [DEBUG] logDebug.js - ALALA
+[2021-06-06T12:25:18.553] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.554] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T12:25:18.557] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.557] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T12:25:18.558] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.558] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.558] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T12:25:18.560] [DEBUG] logDebug.js - its equal: tpbagi
+[2021-06-06T12:25:18.560] [DEBUG] logDebug.js - {
+  name: 'tpbagi',
+  desc: 'Make Bagi go away from you',
+  run: 'tp Bagi_Adam ~50 ~ ~50'
+}
+[2021-06-06T12:39:11.998] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSall
+[2021-06-06T12:39:12.010] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T13:09:52.807] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=night
+[2021-06-06T13:09:52.819] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T13:09:52.820] [DEBUG] logDebug.js - day
+[2021-06-06T13:09:52.821] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.821] [DEBUG] logDebug.js - also
+[2021-06-06T13:09:52.823] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.824] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.824] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.826] [DEBUG] logDebug.js - its equal: night
+[2021-06-06T13:09:52.826] [DEBUG] logDebug.js - asd
+[2021-06-06T13:09:52.827] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.827] [DEBUG] logDebug.js - destroy
+[2021-06-06T13:09:52.828] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.829] [DEBUG] logDebug.js - torun
+[2021-06-06T13:09:52.830] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.831] [DEBUG] logDebug.js - ALALA
+[2021-06-06T13:09:52.831] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.831] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T13:09:52.831] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.832] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T13:09:52.832] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.834] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T13:09:52.834] [DEBUG] logDebug.js - night
+[2021-06-06T13:09:52.835] [DEBUG] logDebug.js - { name: 'night', desc: 'Sets time to night.', run: 'time set night' }
+[2021-06-06T13:10:02.354] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=day
+[2021-06-06T13:10:02.366] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T13:10:02.367] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.368] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.369] [DEBUG] logDebug.js - its equal: day
+[2021-06-06T13:10:02.369] [DEBUG] logDebug.js - also
+[2021-06-06T13:10:02.370] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.370] [DEBUG] logDebug.js - night
+[2021-06-06T13:10:02.371] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.372] [DEBUG] logDebug.js - asd
+[2021-06-06T13:10:02.374] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.374] [DEBUG] logDebug.js - destroy
+[2021-06-06T13:10:02.376] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.377] [DEBUG] logDebug.js - torun
+[2021-06-06T13:10:02.379] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.385] [DEBUG] logDebug.js - ALALA
+[2021-06-06T13:10:02.411] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.412] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T13:10:02.413] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.414] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T13:10:02.415] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.417] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T13:10:02.418] [DEBUG] logDebug.js - day
+[2021-06-06T13:10:02.420] [DEBUG] logDebug.js - { name: 'day', run: 'time set day', desc: 'Sets the time to day' }
+[2021-06-06T13:22:34.296] [INFO] defaultRequestHandler.js - ::ffff:139.59.235.105 requested to /
+[2021-06-06T14:01:31.740] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=weather_clear
+[2021-06-06T14:01:31.753] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T14:01:31.754] [DEBUG] logDebug.js - day
+[2021-06-06T14:01:31.757] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.757] [DEBUG] logDebug.js - also
+[2021-06-06T14:01:31.758] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.758] [DEBUG] logDebug.js - night
+[2021-06-06T14:01:31.758] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.759] [DEBUG] logDebug.js - asd
+[2021-06-06T14:01:31.759] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.760] [DEBUG] logDebug.js - destroy
+[2021-06-06T14:01:31.761] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.761] [DEBUG] logDebug.js - torun
+[2021-06-06T14:01:31.764] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.764] [DEBUG] logDebug.js - ALALA
+[2021-06-06T14:01:31.764] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.764] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.765] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.765] [DEBUG] logDebug.js - its equal: weather_clear
+[2021-06-06T14:01:31.767] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T14:01:31.769] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.770] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T14:01:31.774] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T14:01:31.774] [DEBUG] logDebug.js - {
+  name: 'weather_clear',
+  desc: 'Clear the weather',
+  run: 'weather clear'
+}
+[2021-06-06T15:29:53.897] [INFO] defaultRequestHandler.js - ::1 requested to /
+[2021-06-06T15:29:53.936] [INFO] defaultRequestHandler.js - ::1 requested to /index.html
+[2021-06-06T15:29:54.248] [INFO] defaultRequestHandler.js - ::1 requested to /favicon.ico
+[2021-06-06T15:29:54.258] [WARN] defaultRequestHandler.js - Requested file not found: /favicon.ico
+[2021-06-06T15:29:59.220] [INFO] defaultRequestHandler.js - ::1 requested to /twms/index.jsx
+[2021-06-06T15:29:59.341] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:29:59.359] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-06T15:31:49.448] [INFO] defaultRequestHandler.js - ::1 requested to /twms/index.jsx
+[2021-06-06T15:31:49.550] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:31:49.569] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-06T15:31:51.900] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:31:52.192] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js.map
+[2021-06-06T15:32:16.344] [INFO] defaultRequestHandler.js - ::1 requested to /twms/index.jsx
+[2021-06-06T15:32:16.446] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:32:16.502] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-06T15:32:16.803] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js.map
+[2021-06-06T15:32:19.887] [INFO] defaultRequestHandler.js - ::1 requested to /twms/index.jsx
+[2021-06-06T15:32:20.009] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:32:20.076] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-06T15:32:20.606] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js.map
+[2021-06-06T15:32:34.240] [INFO] defaultRequestHandler.js - ::1 requested to /twms/index.jsx
+[2021-06-06T15:32:34.453] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:32:34.474] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-06T15:32:34.873] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js.map
+[2021-06-06T15:32:43.803] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js.map
+[2021-06-06T15:32:43.835] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:32:51.261] [INFO] defaultRequestHandler.js - ::1 requested to /twms/index.jsx
+[2021-06-06T15:32:51.428] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/css/bootstrap-toaster.css
+[2021-06-06T15:32:51.488] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js
+[2021-06-06T15:32:51.904] [INFO] defaultRequestHandler.js - ::1 requested to /twms/toaster/js/bootstrap-toaster.min.js.map
+[2021-06-06T19:09:09.194] [INFO] defaultRequestHandler.js - ::ffff:108.51.89.151 requested to /lvs/api.jsx?mode=TWMSget&name=weather_clear
+[2021-06-06T19:09:09.212] [DEBUG] logDebug.js - [
+  { name: 'day', run: 'time set day', desc: 'Sets the time to day' },
+  { name: 'also', run: 'say The whole thing is dynamic' },
+  { name: 'night', desc: 'Sets time to night.', run: 'time set night' },
+  { name: 'asd', desc: 'asd', run: 'say asd' },
+  {
+    name: 'destroy',
+    desc: 'Selfboom!!',
+    run: 'summon PrimedTnt -88 6 -66'
+  },
+  {
+    name: 'torun',
+    desc: 'No need restart',
+    run: 'say Welcome from the other side'
+  },
+  { name: 'ALALA', desc: 'ALLALA', run: 'say lalalalala' },
+  {
+    name: 'weather_clear',
+    desc: 'Clear the weather',
+    run: 'weather clear'
+  },
+  {
+    name: 'weather_rain',
+    desc: 'Make it raining!',
+    run: 'weather rain'
+  },
+  {
+    name: 'tpbagi',
+    desc: 'Make Bagi go away from you',
+    run: 'tp Bagi_Adam ~50 ~ ~50'
+  }
+]
+[2021-06-06T19:09:09.214] [DEBUG] logDebug.js - day
+[2021-06-06T19:09:09.214] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.215] [DEBUG] logDebug.js - also
+[2021-06-06T19:09:09.215] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.215] [DEBUG] logDebug.js - night
+[2021-06-06T19:09:09.215] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.216] [DEBUG] logDebug.js - asd
+[2021-06-06T19:09:09.216] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.217] [DEBUG] logDebug.js - destroy
+[2021-06-06T19:09:09.218] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.218] [DEBUG] logDebug.js - torun
+[2021-06-06T19:09:09.218] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.218] [DEBUG] logDebug.js - ALALA
+[2021-06-06T19:09:09.219] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.219] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.221] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.222] [DEBUG] logDebug.js - its equal: weather_clear
+[2021-06-06T19:09:09.222] [DEBUG] logDebug.js - weather_rain
+[2021-06-06T19:09:09.222] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.222] [DEBUG] logDebug.js - tpbagi
+[2021-06-06T19:09:09.223] [DEBUG] logDebug.js - weather_clear
+[2021-06-06T19:09:09.223] [DEBUG] logDebug.js - {
+  name: 'weather_clear',
+  desc: 'Clear the weather',
+  run: 'weather clear'
+}

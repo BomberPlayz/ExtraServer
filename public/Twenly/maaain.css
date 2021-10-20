@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*
+
+Twenly
+
+MADE BY - BomberPlayz
+
+
+ */
+
+/* default stuff */
+:root {
+    font-family: 'Roboto', sans-serif;
+}
+.ui {
+    font-family: 'Roboto', sans-serif;
+}
+
+.primary {
+    background: #2384c4;
+}
+
+.secondary {
+    background: #47cad6;
+}
+
+.warning {
+    background: #ffc800;
+}
+
+.danger {
+    background: #f52723;
+}
+
+/* buttons */
+
+.ui.button {
+    border: none;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    opacity: 1;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    margin: 8px 0px;
+}
+
+.ui.button:hover {
+    background-color:rgba(0, 0, 0, 0.8);
+}
+
+.ui.button.primary:hover {
+
+    background-color: #0f70b0;
+}
+
+.ui.button.secondary:hover {
+
+    background-color: #33b6c2;
+}
+
+.ui.button.warning:hover {
+
+    background-color: #ebb400;
+}
+
+.ui.button.danger:hover {
+
+    background-color: #e1130f;
+}
+
+.ui.button.primary:active {
+    transition: all 0.1s ease 0s;
+    background-color: #005c9c;
+}
+
+.ui.button.secondary:active {
+    transition: all 0.1s ease 0s;
+    background-color: #1fa2ae;
+}
+
+.ui.button.warning:active {
+    transition: all 0.1s ease 0s;
+    background-color: #d7a000;
+}
+
+.ui.button.danger:active {
+    transition: all 0.1s ease 0s;
+    background-color: #cd0000;
+}
+
+
+
+
+
+
+.primary.button{
+    background: #2384c4;
+    color: white;
+    border-color: #2384c4;
+
+}
+
+.secondary.button {
+    background: #47cad6;
+    color: white;
+    border-color: #47cad6;
+}
+
+.warning.button {
+    background: #ffc800;
+    color: white;
+    border-color: #ffc800;
+
+}
+
+.danger.button {
+    background: #f52723;
+    color: white;
+    border-color: #f52723;
+}
+
+
+
+/* form */
+input {
+    border: solid;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    opacity: 1;
+    transition: all 0.3s ease 0s;
+    border-color: #cccccc;
+    border-width: 1px;
+    outline:0;
+    padding: 2px 16px;
+    display: flex;
+    width: available;
+    height: 28px;
+}
+
+input:focus {
+    border-color: #47cad6;
+    transition: all 0.3s ease 0s;
+}
+
+input[type=password] {
+    font-family: 'Roboto', sans-serif;
+}
+
+input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+}
+
+.form .field {
+    margin: 8px 0px;
+
+}
+
+.form .field label {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding: 0px 4px;
+}
+
+
+/* cards */
+
+.ui.card {
+    border: solid;
+    border-radius: 10px;
+    border-color: #cdcdcd;
+    border-width: 2px;
+    display: block;
+    width: min-content;
+    padding: 0px 0px;
+    box-shadow: 2px 2px 2px #cdcdcd;
+    background-color: #ffffff;
+    height: min-content;
+    overflow: hidden;
+}
+
+.ui.card .content {
+    padding: 2px 8px;
+    display: block;
+    border-top: solid;
+    border-top-color: #C0C0BB;
+    border-top-width: 1px;
+    width: 99.999%;
+
+
+}
+
+
+
+.header {
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    font-size: 16px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+
+
+
+}
+
+
+
+
+h1, h2, h3, h4, h5, h6, h7
+{
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    font-style: normal;
+}
+
+a {
+    color: #47a9d6;
+}
+
+a:hover {
+    color: #3395c2;
+}
+
+a:active {
+    color: #1f81ae;
+}

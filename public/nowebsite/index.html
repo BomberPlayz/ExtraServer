@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>There is no website</title>
+    <link rel="stylesheet" href="/Twenly/main.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="/Twenly/main.js"></script>
+<style>
+    .damaged {
+        transform: rotate(8deg);
+    }
+
+    .verydamaged {
+        transform: rotate(24deg);
+    }
+    .realdamaged {
+        transform: rotate(48deg);
+    }
+</style>
+
+</head>
+<body>
+<audio id="break_1">
+    <source src="/nowebsite/sound/break_1.wav" type="audio/wave">
+</audio>
+<audio id="boom_1">
+    <source src="/nowebsite/sound/boom_1.wav" type="audio/wave">
+</audio>
+<audio id="no_stop_1">
+    <source src="/nowebsite/sound/no_stop_1.wav" type="audio/wave">
+</audio>
+<audio id="isaid_stop_1">
+    <source src="/nowebsite/sound/isaid_stop_1.wav" type="audio/wave">
+</audio>
+<audio id="there_is_no_web_1">
+    <source src="/nowebsite/sound/there_is_no_web_1.wav" type="audio/wave">
+</audio>
+<audio id="cant">
+    <source src="/nowebsite/sound/cant.wav" type="audio/wave">
+</audio>
+<audio id="dont_think_about_that_1">
+    <source src="/nowebsite/sound/dont_think_about_that_1.wav" type="audio/wave">
+</audio>
+<audio id="oh_and_a_toast_1">
+    <source src="/nowebsite/sound/oh_and_a_toast_1.wav" type="audio/wave">
+</audio>
+    <div class="card ui" id="maincard" style="width: available; width: -moz-available; height: 480px">
+        <div class="ui title">There is no website!!!</div>
+        <div class="content" style="text-align: center">
+            <h1>I SAID, <br><STRONG style="font-size: 75px">THERE. IS. <div style="display: inline-block" class="dont_click">NO.</div> WEBSITE.</STRONG></h1>
+        </div>
+    </div>
+
+
+<script>
+    $.fn.animateRotate = function(angle, duration, easing, complete) {
+        return this.each(function() {
+            var $elem = $(this);
+
+            $({deg: 0}).animate({deg: angle}, {
+                duration: duration,
+                easing: easing,
+                step: function(now) {
+                    $elem.css({
+                        transform: 'rotate(' + now + 'deg)'
+                    });
+                },
+                complete: complete || $.noop
+            });
+        });
+    };
+    let cooldown = 0
+    setInterval(function() {
+        if(cooldown > 0) {
+            cooldown--
+        }
+    },10)
+    let bomed = false
+    let firstabo = 0
+    $(".dont_click").click(function() {
+        if(cooldown < 1) {
+            if(bomed == true) {
+                $("#cant")[0].play()
+                return
+            }
+            let duck = $(".dont_click")
+            cooldown = 100
+            $("#break_1")[0].play()
+            $( "body" ).effect( "shake", {
+                direction: "down",
+
+                distance: 128,
+                times: 8
+            } );
+            if($(this).hasClass("verydamaged")) {
+                $("#boom_1")[0].play()
+                $( "body" ).effect( "shake", {
+                    direction: "left",
+
+                    distance: 128,
+                    times: 6
+                } );
+                duck.html("")
+                duck.toggleClass("dont_click")
+                duck.toggleClass("verydamaged")
+                bomed = true
+                setTimeout(function() {
+                    $("#there_is_no_web_1")[0].play()
+                    setTimeout(function() {
+                        duck.css("font-size", 120)
+                        duck.html("NO.")
+                        $("#boom_1")[0].play()
+                        $( "body" ).effect( "shake", {
+                            direction: "left",
+
+                            distance: 128,
+                            times: 5
+                        } );
+                        setTimeout(function() {
+
+                            $('body').append(`
+
+                            <button class="ui button danger small" id="devonly" style="position: absolute; bottom: -500px; left: 1px;" onclick="devclicked()">Dev only</button>
+                            `)
+                            let hovered = false
+                            $("#devonly").hover(function() {
+                                if(hovered == true) {
+                                    return
+                                }
+                                hovered = true
+                                $("#dont_think_about_that_1")[0].play()
+                                $(this).css("bottom", "unset")
+                                $(this).css("right", "32px")
+                                $(this).css("left", "unset")
+                                $(this).css("top", "1px")
+                                setTimeout(function() {
+                                    $("#oh_and_a_toast_1")[0].play()
+                                    $('body').toast({
+                                        title: "HAHA",
+                                        message: "You won't remove this toast. Trust me, it's not worth touching the close button. If you do, just don't click the dev button, it will make your life harder!!",
+
+                                    })
+                                },1500)
+                            })
+                        },1000)
+                    },3500)
+                    setTimeout(function() {
+                        $( "body" ).effect( "shake", {
+                            direction: "left",
+
+                            distance: 64,
+                            times: 6
+                        } );
+                        setTimeout(function() {
+                            $( "body" ).effect( "shake", {
+                                direction: "left",
+
+                                distance: 64,
+                                times: 6
+                            } );
+                        },400)
+                    },2000)
+                },2500)
+            } else
+            if($(this).hasClass("damaged")) {
+                $(this).toggleClass("verydamaged")
+                $(this).toggleClass("damaged")
+                setTimeout(function() {
+                    $("#isaid_stop_1")[0].play()
+                    setTimeout(function() {
+                        $( "body" ).effect( "shake", {
+                            direction: "left",
+
+                            distance: 64,
+                            times: 6
+                        } );
+                    },1000)
+                },1000)
+            } else {
+                $(this).toggleClass("damaged")
+                setTimeout(function() {
+                    $("#no_stop_1")[0].play()
+                },1000)
+            }
+
+
+        }
+
+    })
+
+    function devclicked() {
+        $('body').toast({
+            title: "TODO",
+            message: "Beszéd, pl hogy 'WHY?!' vagy valami, maincard elferdül, valahogy le lehessen tépni. Letépés után ott kell alatta lenni egy 'create website' gombnak, amit ha megnyomunk, elő jön Mr. TypeError, és elkezd dolgokat művelni",
+            class: "danger"
+        })
+    }
+</script>
+</body>
+</html>

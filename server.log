@@ -1,0 +1,728 @@
+[2021-03-18T19:31:52.139] [INFO] default - creating server...
+[2021-03-18T19:31:52.144] [INFO] default - Loading plugins...
+[2021-03-18T19:31:52.147] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-03-18T19:31:52.147] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-03-18T19:31:52.149] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-03-18T19:31:52.149] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-03-18T19:31:52.149] [INFO] default - Starting to listen...
+[2021-03-18T19:31:52.153] [INFO] default - Server started!
+[2021-03-18T19:31:52.153] [INFO] default - tictuc! elindult!
+[2021-03-18T19:33:14.044] [INFO] default - creating server...
+[2021-03-18T19:33:14.058] [INFO] default - Loading plugins...
+[2021-03-18T19:33:14.061] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-03-18T19:33:14.061] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-03-18T19:33:14.062] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-03-18T19:33:14.062] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-03-18T19:33:14.063] [INFO] default - Starting to listen...
+[2021-03-18T19:33:14.068] [INFO] default - Server started!
+[2021-03-18T19:33:14.072] [INFO] default - tictuc! elindult!
+[2021-03-18T19:34:30.436] [INFO] default - creating server...
+[2021-03-18T19:34:30.444] [INFO] default - Loading plugins...
+[2021-03-18T19:34:30.446] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-03-18T19:34:30.447] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-03-18T19:34:30.448] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-03-18T19:34:30.448] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-03-18T19:34:30.448] [INFO] default - Starting to listen...
+[2021-03-18T19:34:30.452] [INFO] default - Server started!
+[2021-03-18T19:34:30.453] [INFO] default - tictuc! elindult!
+[2021-03-18T19:34:34.609] [INFO] default - creating server...
+[2021-03-18T19:34:34.619] [INFO] default - Loading plugins...
+[2021-03-18T19:34:34.622] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-03-18T19:34:34.622] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-03-18T19:34:34.624] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-03-18T19:34:34.626] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-03-18T19:34:34.626] [INFO] default - Starting to listen...
+[2021-03-18T19:34:34.639] [INFO] default - Server started!
+[2021-03-18T19:34:34.641] [INFO] default - tictuc! elindult!
+[2021-03-18T19:35:51.362] [INFO] default - |-----------------|
+[2021-03-18T19:35:51.372] [INFO] default - |ExtraServer START|
+[2021-03-18T19:35:51.373] [INFO] default - |-----------------|
+[2021-03-18T19:35:51.374] [INFO] default - creating server...
+[2021-03-18T19:35:51.375] [INFO] default - Loading plugins...
+[2021-03-18T19:35:51.379] [INFO] defaultRequestHandler.js - DefaultRequestHandler was made by BomberPlayz.
+[2021-03-18T19:35:51.379] [INFO] default - Loaded plugin defaultRequestHandler.js
+[2021-03-18T19:35:51.381] [INFO] _compatibleMode.js - CopatibleMode plugin was made by BomberPLayz
+[2021-03-18T19:35:51.382] [INFO] default - Loaded plugin _compatibleMode.js
+[2021-03-18T19:35:51.382] [INFO] default - Starting to listen...
+[2021-03-18T19:35:51.387] [INFO] default - Server started!
+[2021-03-18T19:35:51.391] [INFO] default - tictuc! elindult!
+[2021-03-18T19:36:12.641] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-05%2021-22-54.png'
+[2021-03-18T19:36:12.651] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-24%2016-14-23.png'
+[2021-03-18T19:36:12.654] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png'
+[2021-03-18T19:36:12.656] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20holmi.png'
+[2021-03-18T19:36:12.658] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20mc.png'
+[2021-03-18T19:36:12.659] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial%202.png'
+[2021-03-18T19:36:12.674] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.674] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.674] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.674] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.675] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.678] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.678] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.678] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.678] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.678] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.678] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.679] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.680] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial.png'
+[2021-03-18T19:36:12.681] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png'
+[2021-03-18T19:36:12.682] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.682] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.682] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.682] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.683] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.683] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.684] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.684] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.686] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.687] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.687] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.688] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.689] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.689] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.689] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.689] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.690] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.690] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.690] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.690] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.690] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.690] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.691] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.691] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.692] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png'
+[2021-03-18T19:36:12.780] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.807] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.807] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.807] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.808] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.808] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.808] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.808] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.808] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.809] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.809] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.809] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.810] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.810] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.811] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.811] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.811] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.811] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.811] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.812] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.812] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.812] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.812] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.813] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.827] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/szupikek%20eletrajza.png'
+[2021-03-18T19:36:12.847] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/gep_bugok.mp4.png'
+[2021-03-18T19:36:12.852] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png'
+[2021-03-18T19:36:12.857] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png'
+[2021-03-18T19:36:12.952] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.993] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.994] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.994] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.995] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.995] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.995] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.995] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:12.995] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:12.995] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:12.996] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:12.996] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:12.997] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:12.997] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:13.002] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:13.007] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:13.008] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:13.008] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:13.009] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:13.014] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:13.014] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:13.015] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:13.015] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:13.015] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:13.212] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:13.377] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:13.508] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:13.597] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:13.666] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:13.759] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:13.806] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:13.872] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:14.006] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:14.297] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:14.375] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:14.383] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:14.393] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/ticci%20tucci%20unity.png'
+[2021-03-18T19:36:14.406] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:14.410] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:14.415] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:14.422] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:14.437] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:14.447] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:14.448] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:14.449] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:14.451] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:14.458] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:14.463] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:14.464] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:14.472] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:14.475] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:14.475] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:14.478] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:14.479] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:14.479] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:14.480] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:14.480] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:14.480] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:14.480] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:14.480] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:14.480] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:14.482] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/VID_20170419_110242_0033.MP4.png'
+[2021-03-18T19:36:14.488] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png'
+[2021-03-18T19:36:26.811] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-05%2021-22-54.png'
+[2021-03-18T19:36:26.824] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-24%2016-14-23.png'
+[2021-03-18T19:36:26.825] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png'
+[2021-03-18T19:36:26.826] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20holmi.png'
+[2021-03-18T19:36:26.827] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20mc.png'
+[2021-03-18T19:36:26.828] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial%202.png'
+[2021-03-18T19:36:26.836] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/szupikek%20eletrajza.png'
+[2021-03-18T19:36:26.860] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png'
+[2021-03-18T19:36:26.870] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.873] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.874] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.875] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.876] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.876] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.877] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.877] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.877] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.879] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.879] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.880] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.880] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.880] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.880] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.880] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.881] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.881] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.882] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png'
+[2021-03-18T19:36:26.883] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial.png'
+[2021-03-18T19:36:26.914] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.914] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.915] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.915] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.916] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.916] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.916] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.917] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.918] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.918] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.922] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.925] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.939] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/gep_bugok.mp4.png'
+[2021-03-18T19:36:26.940] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.940] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.941] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.942] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.942] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.942] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.943] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.943] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.943] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.943] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.944] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.944] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.945] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.945] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.945] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.945] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.945] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.946] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.946] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.946] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.948] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.948] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.948] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.948] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.949] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.952] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.953] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.954] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.954] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.954] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.955] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:26.955] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:26.955] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:26.955] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:26.955] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:26.957] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:26.960] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png'
+[2021-03-18T19:36:27.015] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:27.041] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:27.041] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:27.042] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:27.043] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:27.044] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png'
+[2021-03-18T19:36:27.157] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png'
+[2021-03-18T19:36:27.260] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/ticci%20tucci%20unity.png'
+[2021-03-18T19:36:27.627] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/VID_20170419_110242_0033.MP4.png'
+[2021-03-18T19:36:27.678] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:27.713] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:27.729] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:27.758] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:27.793] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:27.840] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:27.899] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:27.946] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:27.966] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:27.981] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:27.986] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:27.993] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:27.994] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:27.995] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:27.995] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:27.995] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:27.995] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:27.995] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:27.995] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:27.996] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:27.996] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:27.996] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:27.996] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:27.996] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:27.998] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:28.008] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:28.009] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:28.009] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:28.009] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:28.010] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:36:28.010] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:36:28.010] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:36:28.011] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:36:28.011] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:36:28.011] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:36:28.012] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.240] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-05%2021-22-54.png'
+[2021-03-18T19:38:24.250] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-24%2016-14-23.png'
+[2021-03-18T19:38:24.253] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png'
+[2021-03-18T19:38:24.254] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20holmi.png'
+[2021-03-18T19:38:24.255] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20mc.png'
+[2021-03-18T19:38:24.256] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial%202.png'
+[2021-03-18T19:38:24.262] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png'
+[2021-03-18T19:38:24.270] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.270] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.271] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.271] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.271] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.271] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.272] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.272] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.272] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.272] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.273] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.273] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.274] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.275] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.275] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.275] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.276] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.276] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.276] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.276] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.277] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.277] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.277] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.277] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.278] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.278] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.278] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.279] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.279] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.279] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.279] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.279] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.279] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.280] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.280] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.280] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.282] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.283] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.284] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.284] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.287] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.288] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.288] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.288] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.289] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.289] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.289] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.289] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.291] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial.png'
+[2021-03-18T19:38:24.307] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/gep_bugok.mp4.png'
+[2021-03-18T19:38:24.325] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.325] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.326] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.326] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.327] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.327] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.328] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.328] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.328] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.330] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.330] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.330] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.334] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.337] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.338] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.339] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.339] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.339] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.339] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.339] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.339] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.340] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.340] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.340] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.353] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png'
+[2021-03-18T19:38:24.357] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.358] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.358] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.359] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.359] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.360] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.360] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.360] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.361] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.361] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.361] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.361] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.428] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png'
+[2021-03-18T19:38:24.509] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png'
+[2021-03-18T19:38:24.543] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/szupikek%20eletrajza.png'
+[2021-03-18T19:38:24.552] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png'
+[2021-03-18T19:38:24.590] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.616] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.616] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.617] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.617] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.617] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.617] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.617] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.617] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.619] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.620] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.620] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.621] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.621] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.622] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.622] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.622] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.622] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.622] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.622] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.623] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.623] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.624] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.624] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.625] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.625] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.625] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.626] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.626] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.626] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.626] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:24.626] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:24.626] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:24.627] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:24.627] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:24.627] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:24.649] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/VID_20170419_110242_0033.MP4.png'
+[2021-03-18T19:38:24.670] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/ticci%20tucci%20unity.png'
+[2021-03-18T19:38:36.613] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-05%2021-22-54.png'
+[2021-03-18T19:38:36.635] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-24%2016-14-23.png'
+[2021-03-18T19:38:36.658] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png'
+[2021-03-18T19:38:36.769] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20holmi.png'
+[2021-03-18T19:38:37.033] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20mc.png'
+[2021-03-18T19:38:37.100] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial%202.png'
+[2021-03-18T19:38:37.117] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.123] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.130] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.158] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.230] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.251] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.259] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.263] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.266] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.279] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.283] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.292] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.298] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/szupikek%20eletrajza.png'
+[2021-03-18T19:38:37.318] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.333] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.348] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.356] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.358] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.359] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.359] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.360] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.360] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.360] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.360] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.361] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.362] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial.png'
+[2021-03-18T19:38:37.364] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.365] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.365] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.365] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.365] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.365] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.366] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.366] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.366] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.367] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.367] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.367] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.383] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png'
+[2021-03-18T19:38:37.399] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.400] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.400] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.400] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.400] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.400] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.400] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.401] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.401] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.408] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.410] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.410] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.411] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.412] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.412] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.413] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.413] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.413] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.414] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.414] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.414] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.415] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.415] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.415] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.416] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png'
+[2021-03-18T19:38:37.432] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/gep_bugok.mp4.png'
+[2021-03-18T19:38:37.460] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.463] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.464] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.464] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.465] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.466] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.466] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.466] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.466] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.466] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.467] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.467] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.472] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.472] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.472] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.473] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.473] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.475] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.478] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.478] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.478] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.478] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.478] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.478] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.496] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png'
+[2021-03-18T19:38:37.498] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png'
+[2021-03-18T19:38:37.499] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png'
+[2021-03-18T19:38:37.500] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.500] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.500] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.500] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.501] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.501] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.501] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.517] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.517] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.517] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.517] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.517] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.525] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.526] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.527] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.527] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.527] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.527] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.528] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.528] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.528] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.528] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.528] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.528] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.529] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:37.530] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:37.531] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:37.531] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:37.531] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:37.532] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/ticci%20tucci%20unity.png'
+[2021-03-18T19:38:37.547] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/VID_20170419_110242_0033.MP4.png'
+[2021-03-18T19:38:45.511] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-05%2021-22-54.png'
+[2021-03-18T19:38:45.557] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/2020-09-24%2016-14-23.png'
+[2021-03-18T19:38:45.582] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/adi%20es%20ricsi%20veszekszik%20xd.png'
+[2021-03-18T19:38:45.606] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20holmi.png'
+[2021-03-18T19:38:45.608] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/buggos%20mc.png'
+[2021-03-18T19:38:45.612] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial%202.png'
+[2021-03-18T19:38:45.674] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Minecraft1.7102020-04-2719-34-31.png'
+[2021-03-18T19:38:45.726] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Discord%20Bot%20Tutorial.png'
+[2021-03-18T19:38:45.872] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:45.990] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.109] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.200] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.267] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.309] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.331] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.374] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.380] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.381] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.381] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.382] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.391] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.394] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.397] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.397] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.398] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.398] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.398] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.398] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.398] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.398] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.399] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.399] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.400] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/gep_bugok.mp4.png'
+[2021-03-18T19:38:46.413] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.417] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.417] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.433] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.457] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.462] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.479] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.480] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.480] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.480] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.480] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.480] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.483] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.483] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.483] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.483] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.483] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.484] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.492] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.497] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.497] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.498] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.500] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.500] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.509] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.512] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.512] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.512] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.512] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.513] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.513] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.513] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.513] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.525] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.528] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.529] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.530] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.531] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.533] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.533] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.533] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.539] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.540] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.541] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.541] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.541] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.542] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.542] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.578] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2012-31-00.png'
+[2021-03-18T19:38:46.599] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-52-46.png'
+[2021-03-18T19:38:46.633] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/WTF%20BUGGOS%20A%20MINECRAFT.png'
+[2021-03-18T19:38:46.677] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/Rocket%20League%20(64-bit,%20DX11,%20Cooked)%202020-11-08%2015-53-39.png'
+[2021-03-18T19:38:46.710] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.728] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.731] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.732] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.734] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.767] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.778] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.796] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.816] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.840] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.876] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.881] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.896] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/szupikek%20eletrajza.png'
+[2021-03-18T19:38:46.909] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/VID_20170419_110242_0033.MP4.png'
+[2021-03-18T19:38:46.917] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.931] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.933] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.934] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.940] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.943] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.947] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.948] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.951] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.958] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.959] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.959] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.961] [ERROR] defaultRequestHandler.js - An error occured while loading a file: Error: ENOENT: no such file or directory, lstat './tucube/thumbs/ticci%20tucci%20unity.png'
+[2021-03-18T19:38:46.967] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.976] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.979] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.980] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.980] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.980] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.980] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.981] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.981] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.982] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.983] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.983] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.992] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.993] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.994] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.994] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.994] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.996] [INFO] defaultRequestHandler.js - yes: .png
+[2021-03-18T19:38:46.996] [INFO] defaultRequestHandler.js - check: .html
+[2021-03-18T19:38:46.996] [INFO] defaultRequestHandler.js - check: .js
+[2021-03-18T19:38:46.997] [INFO] defaultRequestHandler.js - check: .mp4
+[2021-03-18T19:38:46.997] [INFO] defaultRequestHandler.js - check: .css
+[2021-03-18T19:38:46.997] [INFO] defaultRequestHandler.js - check: .png
+[2021-03-18T19:38:46.997] [INFO] defaultRequestHandler.js - yes: .png
